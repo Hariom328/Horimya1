@@ -1,0 +1,147 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+updated 1 package and audited 445 packages in 3.929s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Bot Test ; Anuuu :- *help
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *help gtp
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *help fight
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *chat what do u think about cats?
+server:-  Bot Test ; soup :- A cat is a domesticated animal.
+server:-  Bot Test ; Anuuu :- *chat but what if that cat is agressive?
+server:-  Bot Test ; soup :- Sorry I need more information.
+server:-  Bot Test ; Anuuu :- *Ttt <@322735784593588225>
+server:-  Bot Test ; soup :- <@703332774056165438> it is your turn
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+server:-  Bot Test ; Anuuu :- *chat what if a cat bites?
+server:-  Bot Test ; soup :- Sorry I need more information.
+server:-  Bot Test ; Respectfully :- *chat what if a cat bites you in your face
+server:-  Bot Test ; soup :- Sorry I need more information.
+server:-  Bot Test ; Respectfully :- *chat kal aana
+server:-  Bot Test ; soup :- Uh.
+server:-  Bot Test ; Anuuu :- *chat kal aana
+server:-  Bot Test ; soup :- I'm sensitive to your feelings.
+server:-  Bot Test ; Respectfully :- *chat yes on no
+server:-  Bot Test ; soup :- Certainly.
+server:-  Bot Test ; Respectfully :- *chat yes or no
+(node:31) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:31) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Bot Test ; Respectfully :- *chat yes or no
+server:-  Bot Test ; soup :- I can't give a definitive answer.
+server:-  Bot Test ; Respectfully :- *chst https://tenor.com/view/binks-binks69-8bitbinks69-kal-anna-kal-kaal-anna-kaal-gif-21171467
+server:-  Bot Test ; Respectfully :- *chat https://tenor.com/view/binks-binks69-8bitbinks69-kal-anna-kal-kaal-anna-kaal-gif-21171467
+server:-  Bot Test ; soup :- Thanks for that web address.
+server:-  Bot Test ; Respectfully :- *chat www.pornhub.com
+server:-  Bot Test ; soup :- Let's change the topic.
+server:-  Bot Test ; Respectfully :- *chat you watch hentai?
+server:-  Bot Test ; soup :- Behave yourself please.
+server:-  Bot Test ; Respectfully :- *chat do you want to marry llama?
+server:-  Bot Test ; soup :- That's a great question. I'll have to ponder it.
+server:-  Bot Test ; soup :- <@!703332774056165438>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; Respectfully :- *chat do you know moksh jain?
+server:-  Bot Test ; soup :- Are you a boy or a girl?
+server:-  Bot Test ; Respectfully :- *chat boy
+server:-  Bot Test ; soup :- I'm a female chat bot.
+server:-  Bot Test ; moksh jain :- *play #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 3 - 02:55:53
+Volume: 100% | Filter: Off | Loop: Off | Autoplay: On
+server:-  Bot Test ; Respectfully :- *chat kal aana
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- It's good to be appreciated.
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *chat nikal
+server:-  Bot Test ; soup :- What is your favorite gift by now?
+server:-  Bot Test ; Respectfully :- *chat ask anu
+server:-  Bot Test ; soup :- OK, I'll ask it.
+server:-  Bot Test ; Respectfully :- *chat did you get the answer
+server:-  Bot Test ; soup :- Think well before saying.
+server:-  Bot Test ; Respectfully :- *chat do you know hindi
+server:-  Bot Test ; soup :- I can speak only English and Chinese. What is your first language?
+server:-  Bot Test ; Respectfully :- *chat hindi
+server:-  Bot Test ; soup :- Wow, you can speak both Hindi and English!
+server:-  Bot Test ; Respectfully :- *chat chinese too
+server:-  Bot Test ; soup :- You can practice Chinese by chatting with me! 你好！
+server:-  Bot Test ; soup :- <@371632166750388224>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Bot Test ; Respectfully :- *chat  你好
+server:-  Bot Test ; soup :- 最近怎么样？
+server:-  Bot Test ; Respectfully :- *chat 我很好
+server:-  Bot Test ; soup :- 太好了！你想听个笑话吗？
+server:-  Bot Test ; Respectfully :- *chat kal
+server:-  Bot Test ; soup :- Who is kal?
+server:-  Bot Test ; Respectfully :- *chat joe
+server:-  Bot Test ; soup :- joe is a name I hear very often.
+server:-  Bot Test ; Respectfully :- *chat do you know who joe is?
+server:-  Bot Test ; soup :- That is a pretty common name.
+server:-  Bot Test ; Respectfully :- *chat you know about ligma?
+server:-  Bot Test ; soup :- It is the largest city and capital of Peru.
+server:-  Bot Test ; Respectfully :- *chat the other ligma
+server:-  Bot Test ; soup :- We can't all be perfect.
+server:-  Bot Test ; Respectfully :- *chat do you wanna know about ligma?
+server:-  Bot Test ; soup :- Yes, please tell me.
+server:-  Bot Test ; Respectfully :- *chat you don't wanna know
+server:-  Bot Test ; soup :- Oh a secret. Don't worry I won't tell anyone.
+server:-  Bot Test ; Respectfully :- *chat promise?
+server:-  Bot Test ; soup :- Cross my heart.
+server:-  Bot Test ; Respectfully :- *chat i won't tell
+server:-  Bot Test ; soup :- What will you do instead?
+server:-  Bot Test ; Respectfully :- *chat nothing
+server:-  Bot Test ; soup :- The only true wisdom is in knowing you know nothing.
+server:-  Bot Test ; Respectfully :- *chat why does fanta bully me
+server:-  Bot Test ; soup :- I feel calm and in control of my life.
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my default prefix is "*" **Type *help to get started**
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=ucTWZvn5IFk
+server:-  Gamers Club ; Terraria #free-stuff :- **Battlefield 1 Shortcut Kit: Vehicle Bundle is free on Steam until July 29th 2021 until 1:00 PM EDT!**
+https://store.steampowered.com/app/1314765/Battlefield_1_Shortcut_Kit_Vehicle_Bundle/
+server:-  Gamers Club ; Terraria #free-stuff :- **Defense Grid: The Awakening and Verdun are both free on the Epic Games Store until July 29th 2021 until 11:00 AM EDT!**
+https://www.epicgames.com/store/en-US/p/defense-grid
+https://www.epicgames.com/store/en-US/p/verdun
+server:-  Respectfully's server2 ; Respectfully :- *uptime
+server:-  Respectfully's server2 ; soup :- **__Uptime:__** 
+0D 13H 20m 15s

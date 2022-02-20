@@ -1,0 +1,609 @@
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server200444/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server200444/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+Makefile:61: recipe for target 'libsodium' failed
+make: *** [libsodium] Error 1
+/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN @distube/spotify@0.6.3 requires a peer of distube@^3.0.0-beta.35 but none is installed. You must install peer dependencies yourself.
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2021-08-26T10_40_37_099Z-debug.log
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Killin' it | server id :- 780450290917703730
+11)  server name :- Ak Xander | server id :- 786467603358941184
+12)  server name :- HOMIES! | server id :- 792289189507891201
+13)  server name :- Respectfully's server | server id :- 854999893143322624
+14)  server name :- Respectfully's server2 | server id :- 858277238344253441
+15)  server name :- ARTS | server id :- 875789800362356736
+16)  server name :- chaubey ji ka bday | server id :- 879602640588267552
+total of 16 servers
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Gamers Club ; MEE6 :- **eddshot machine#0829** just left the server 🙁
+server:-  Killin' it ; Dank Memer :- **Tip**: Have you read any of our blogs? <https://dankmemer.lol/blogs>
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *p *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Yashu yashuh ke teri behen bol nahi sakti thi` - Now!
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Radical Face - Welcome Home, Son` - Now!
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Flo Rida - Right Round (feat. Ke$ha) [US Version] (Official Video)` - Now!
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *chat soup
+Tastes delicious.
+server:-  Fantastical ; Anuuu :- *UwU
+server:-  Fantastical ; soup :- <@703332774056165438>, UwU
+server:-  Fantastical ; Anuuu :- *reload chat
+Error: Cannot find module './chat.js'
+Require stack:
+- /home/minecraft/multicraft/servers/server200444/commands/reload.js
+- /home/minecraft/multicraft/servers/server200444/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.resolve (internal/modules/cjs/helpers.js:83:19)
+    at Object.execute (/home/minecraft/multicraft/servers/server200444/commands/reload.js:14:38)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:277:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/minecraft/multicraft/servers/server200444/commands/reload.js',
+    '/home/minecraft/multicraft/servers/server200444/index.js'
+  ]
+}
+server:-  Fantastical ; soup :- <@703332774056165438>, there was an error trying to execute that command!
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; yashu :- *p https://www.youtube.com/watch?v=mLQCh3zmK_o
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *dc
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *p https://www.youtube.com/watch?v=zGmFUXmWF8A
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; yashu :- *p https://www.youtube.com/playlist?list=PLlQR-JJWGQsrC-wvhyH_atJ5kmKd7ddMO
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *shuffle
+server:-  Killin' it ; soup :- Terminated: Invalid Response
+server:-  Killin' it ; soup :- PlayList has been `SHUFFLED`
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *dc
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; yashu :- *p https://www.youtube.com/watch?v=8ofCZObsnOo
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !uptime
+server:-  Respectfully's server2 ; soup :- **__Uptime:__** 
+0D 23H 40m 44s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Gaurav :- *invite
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *youtube
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Terraria #free-stuff :- **Automachef is free on the Epic Games Store until September 2nd 2021 until 11:00 AM EDT!**
+https://www.epicgames.com/store/en-US/p/automachef
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Aaj Friday hai meme` - Now!
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p daylight
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Respectfully :- *yt
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *yt
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *dc
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p lover
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=K5VYP4ABdm8
+server:-  ARTS ; Aryansoni57 :- *play catch my breath
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *p look what you made me do
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *p ready for it
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *v 100
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *volume 100
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** Danny_Lopriore_-_Let_Me_Suck_Them_Titties_Baby_HISTORICAL-Kp8W9KLx-NQ.m4a
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** Harry_Styles_-_Watermelon_Sugar_Official_Video-E07s5ZYygMg.m4a
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `#VIDEO |#RAKESH_MISHRA | ए राजा जाई ना बहरिया |#TrishaKar_Madhu |#Blockbuster Song 2021 |#MusicWide` - Now!
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BLACKPINK_-_How_You_Like_That_M_V-ioNng23DkIM.m4a
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BLACKPINK_-_How_You_Like_That_M_V-ioNng23DkIM.m4a
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BLACKPINK_-_How_You_Like_That_M_V-ioNng23DkIM.m4a
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Sagar Jiyaai Kalkattavi + Dil Ye Bechain Rahane Laga Aaj Kal + Shafiye Mahsar conference 2019` - Now!
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** Lil_Nas_X_Jack_Harlow_-_INDUSTRY_BABY_Official_Video-UTHLKHL_whs.webm
+server:-  Gamers Club ; Rythm :- **Skipping?** (1/3 people)
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** Lil_Nas_X_Jack_Harlow_-_INDUSTRY_BABY_Official_Video-UTHLKHL_whs.webm
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** Chat_Deni_Maar_Deli_-_Manoj_Tiwari_Hit_Bhojpuri_Songs_Uparwali_Ke_Chakkar_Mein-8jF5RmI2YNU.m4a
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BROWN_MUNDE_-_AP_DHILLON_GURINDER_GILL_SHINDA_KAHLON_GMINXR-VNs_cCtdbPc.webm
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BROWN_MUNDE_-_AP_DHILLON_GURINDER_GILL_SHINDA_KAHLON_GMINXR-VNs_cCtdbPc.webm
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BROWN_MUNDE_-_AP_DHILLON_GURINDER_GILL_SHINDA_KAHLON_GMINXR-VNs_cCtdbPc.webm
+server:-  Gamers Club ; k3 ka bot :- **Now playing:** BROWN_MUNDE_-_AP_DHILLON_GURINDER_GILL_SHINDA_KAHLON_GMINXR-VNs_cCtdbPc.webm
+server:-  Deebot's Hub ; Gaurav :- *youtube
+server:-  Deebot's Hub ; soup :- 
+server:-  Gamers Club ; MEE6 :- **k3 ka bot#3414** just left the server 🙁
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Pastor Subhash Gill - Mera Yasu Yasu` - Now!
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alone
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Pastor Subhash Gill - Mera Yasu Yasu` - Now!
+server:-  Gamers Club ; Rythm :- **Skipping?** (1/3 people) **`!forceskip` or `!fs` to force**
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Yashu yashuh ke teri behen bol nahi sakti thi` - Now!
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Yashu yashuh ke teri behen bol nahi sakti thi` - Now!
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p believer
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p bad liar
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p demons jada
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *q
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p jada facer
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p thousand years
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *p ching cheng hanji
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *p ching cheng hanji
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *sutup
+server:-  Fantastical ; soup :- 

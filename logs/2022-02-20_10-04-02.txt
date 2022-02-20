@@ -1,0 +1,148 @@
+npm WARN deprecated discord-api-types@0.22.0: No longer supported. Install the latest release!
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server259522/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server259522/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+make: *** [libsodium] Error 1
+Makefile:61: recipe for target 'libsodium' failed
+/home/minecraft/multicraft/servers/server259522/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server259522/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2022-02-20T10_04_13_541Z-debug.log
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.12.17
+this bot is online Horimya#4226! ID:- 944679787933339649
+1)  server name :- idk what just project ig | server id :- 944565698179522601
+total of 1 servers
+server:-  idk what just project ig ; HariOm Mishra :- *play Headlight Alan walker
+server:-  idk what just project ig ; Horimya :- **Choose an option from below**
+**1**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:42`
+**2**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Audio] - `2:40`
+**3**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:39`
+**4**. Alok, Alan Walker - Headlights (Lyrics) ft. KIDDO - `2:38`
+**5**. Alok, Alan Walker - Headlights (Ft. KIDDO) (1 HOUR LOOP) Lyrics - `1:06:48`
+**6**. Alok, Alan Walker - Headlights ft. KIDDO (مترجمة) - `2:39`
+**7**. Robin Schulz - Headlights [feat. Ilsey] [Official Video] - `3:49`
+**8**. Alan Walker & Alok - Headlights (feat. KIDDO) [Full Song Audio] - `2:40`
+**9**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Remix] - `3:08`
+**10**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Audio] - `2:39`
+**11**. Alok & Alan Walker - Headlights (feat. KIDDO) [Extended Mix] - `3:32`
+**12**. Alan Walker & Alok - Headlights (ft.KIDDO) - `2:40`
+**13**. Alan Walker & Alok - Headlights (feat. KIDDO) [Lyrics Video] - `2:55`
+**14**. [Full Version] Alan Walker & Alok - Headlights (ft. KIDDO) - `2:01`
+**15**. Alok & Alan Walker - Headlights [SUBTITULADA ESPAÑOL] - `2:39`
+*Enter anything else or wait 60 seconds to cancel*
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+Error: Error: Cannot find module '/home/minecraft/multicraft/servers/server259522/node_modules/@discordjs/opus/prebuild/node-v72-napi-v3-linux-x64-glibc-2.27/opus.node'
+Require stack:
+- /home/minecraft/multicraft/servers/server259522/node_modules/@discordjs/opus/lib/index.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/util/loader.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/Opus.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/index.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/index.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/player/BasePlayer.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/player/BroadcastAudioPlayer.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/VoiceBroadcast.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/ClientVoiceManager.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/Client.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/index.js
+- /home/minecraft/multicraft/servers/server259522/index.js
+Error: Could not locate the bindings file. Tried:
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/build/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/build/Debug/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/build/Release/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/out/Debug/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/Debug/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/out/Release/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/Release/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/build/default/node-opus.node
+ → /home/minecraft/multicraft/servers/server259522/node_modules/node-opus/compiled/12.16.3/linux/x64/node-opus.node
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/util/loader.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/Opus.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/index.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/index.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/player/BasePlayer.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/player/BroadcastAudioPlayer.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/VoiceBroadcast.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/ClientVoiceManager.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/Client.js
+- /home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/index.js
+- /home/minecraft/multicraft/servers/server259522/index.js
+ID: kyLuzKbgXAs
+Name: Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video]
+    at Object.loader [as require] (/home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/util/loader.js:12:9)
+    at loadOpus (/home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/Opus.js:17:17)
+    at new OpusStream (/home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/Opus.js:46:10)
+    at new Decoder (/home/minecraft/multicraft/servers/server259522/node_modules/prism-media/src/opus/Opus.js:183:1)
+    at AudioPlayer.playOpusStream (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/player/BasePlayer.js:73:23)
+    at VoiceConnection.play (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/client/voice/util/PlayInterface.js:75:28)
+    at DisTube._playSong (/home/minecraft/multicraft/servers/server259522/node_modules/distube/src/DisTube.js:910:43)
+    at DisTube._newQueue (/home/minecraft/multicraft/servers/server259522/node_modules/distube/src/DisTube.js:417:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async DisTube._handleSong (/home/minecraft/multicraft/servers/server259522/node_modules/distube/src/DisTube.js:220:19)
+    at async DisTube.play (/home/minecraft/multicraft/servers/server259522/node_modules/distube/src/DisTube.js:243:12)
+An error encountered: 
+server:-  idk what just project ig ; Horimya :- Playing `Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video]` - `02:42`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  idk what just project ig ; Respectfully :- *bal
+9500 coins
+server:-  idk what just project ig ; Horimya :- 

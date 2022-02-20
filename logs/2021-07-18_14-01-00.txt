@@ -1,0 +1,186 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 444 packages in 3.315s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Bot Test ; soup :- 
+`playlist.title` will be removed in the next major release, use `playlist.name` instead.
+`playlist.total_items` will be removed completely in the next major release.
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *shuffle
+server:-  Bot Test ; soup :- PlayList has been `SHUFFLED`
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *volume 100
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *autoplay off
+server:-  Bot Test ; soup :- Set autoplay mode to `Off`
+server:-  Bot Test ; Respectfully :- *autoplay on
+server:-  Bot Test ; soup :- Set autoplay mode to `On`
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *volume 75
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *p arcade
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skipplay arcade
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *np
+server:-  Bot Test ; soup :- No Song Playing Currently!
+server:-  Bot Test ; Respectfully :- *nowplaying
+server:-  Bot Test ; soup :- No Song Playing Currently!
+server:-  Bot Test ; Respectfully :- *skipplay  Duncan Laurence - Arcade (Lyrics) ft. FLETCHER
+server:-  Bot Test ; Respectfully :- *p  Duncan Laurence - Arcade (Lyrics) ft. FLETCHER
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *q
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *uptime
+server:-  Bot Test ; soup :- **__Uptime:__** 
+0D 0H 22m 30s
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *playskip
+server:-  Bot Test ; Respectfully :- *play For the Dancing and the Dreaming
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *waifu
+server:-  Bot Test ; still stooopid :- *JOE mama
+server:-  Bot Test ; Anuuu :- *chat waifu
+server:-  Bot Test ; soup :- What is your name?
+server:-  Bot Test ; moksh jain :- *chat sex needed giv now
+server:-  Bot Test ; soup :- I'm designed to be a female chatbot. Are you a boy or a girl?
+server:-  Bot Test ; still stooopid :- *Chat tell me a joe mama joke
+server:-  Bot Test ; soup :- If you tell a joke in the forest, but nobody laughs, was it a joke?
+server:-  Bot Test ; still stooopid :- *pukes and dies*
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *que
+server:-  Bot Test ; still stooopid :- *q
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *p among us drip remix
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *playskip
+server:-  Bot Test ; moksh jain :- *play hentai moaning
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *playskip  among us drip remix
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *stop
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *p among us drip remix
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; still stooopid :- *stop
+server:-  Bot Test ; soup :- 
+server:-  Random Shit ; Respectfully :- *
+server:-  Random Shit ; Anuuu :- *p https://youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Random Shit ; soup :- 
+`playlist.title` will be removed in the next major release, use `playlist.name` instead.
+`playlist.total_items` will be removed completely in the next major release.
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Anuuu :- *shuffle
+server:-  Random Shit ; soup :- PlayList has been `SHUFFLED`
+server:-  Random Shit ; Anuuu :- *skip
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=TMXJbaFcDTI
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X - HOLIDAY (Official Video)` - Now!
+server:-  Gamers Club ; MEE6 :- **SID#3376** just left the server 🙁

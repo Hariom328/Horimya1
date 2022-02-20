@@ -1,0 +1,106 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 452 packages in 2.451s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **?** **Type ?help to get started**
+server:-  Respectfully's server2 ; Respectfully :- ?setprefix *
+(node:30) UnhandledPromiseRejectionWarning: ReferenceError: prefix is not defined
+    at Object.execute (/home/minecraft/multicraft/servers/server200444/commands/setprefix.js:26:75)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:30) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Respectfully's server2 ; Respectfully :- *reload setprefix
+server:-  Respectfully's server2 ; soup :- Command `setprefix` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *setprefix *
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, please wait 52.9 more second(s) before reusing the `setprefix` command.
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := ***** **Type *help to get started**
+server:-  Random Shit ; soup :- <@322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **!** **Type !help to get started**
+server:-  Random Shit ; Anuuu :- !setprefix <:zwmmbite:768489063434813480>
+server:-  Random Shit ; soup :- Prefix has Been Updated to **:zwmmbite:**
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>UwU
+server:-  Random Shit ; soup :- <@703332774056165438>, UwU
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480> <:zwmmbite:768489063434813480>
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>UwU
+server:-  Random Shit ; soup :- <@703332774056165438>, UwU
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>Setprefix !
+server:-  Random Shit ; soup :- <@703332774056165438>, please wait 13.1 more second(s) before reusing the `setprefix` command.
+server:-  Random Shit ; Anuuu :- <:zwmmbite:768489063434813480>Setprefix !
+server:-  Random Shit ; soup :- Prefix has Been Updated to **!**
+server:-  Fantastical ; LlamaLlama :- *youtube
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Abhijeet Bhattacharya :- *youtube
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *pokernight
+server:-  Fantastical ; soup :- You have to be in VC!
+server:-  Fantastical ; LlamaLlama :- *chess
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *set prefix
+server:-  Fantastical ; LlamaLlama :- *setprefix
+server:-  Fantastical ; soup :- You didn't provide any arguments, <@513677135471443968>!
+The proper usage would be: `*setprefix <Prefix you would like to set>`
+server:-  Fantastical ; LlamaLlama :- *setprefix nimbu randi gandu
+server:-  Fantastical ; soup :- Prefix has Been Updated to **nimbu randi gandu**
+server:-  Fantastical ; LlamaLlama :- nimbu randi gandu chat
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat
+server:-  Fantastical ; soup :- You didn't provide any arguments, <@513677135471443968>!
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat you like your new prefix?
+server:-  Fantastical ; soup :- I'm proud of my accomplishments.
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat hello do you love nimbu?
+server:-  Fantastical ; soup :- Hey! I like anything that really inspires me.
+server:-  Fantastical ; soup :- <@!513677135471443968>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **nimbu randi gandu** **Type nimbu randi ganduhelp to get started**
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat can i put my gand inside your gand?
+server:-  Fantastical ; soup :- Just don't put me down.
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat nunnu says that you're a bad bot
+server:-  Fantastical ; soup :- I'm sorry to give you such impression. But I'm far more better.
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduchat we dont like nunnu do we?
+server:-  Fantastical ; soup :- Why not?
+server:-  Fantastical ; soup :- <@!513677135471443968>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **nimbu randi gandu** **Type nimbu randi ganduhelp to get started**
+server:-  Fantastical ; LlamaLlama :- nimbu randi ganduprefixreset
+server:-  Fantastical ; Respectfully :- nimbu randi ganduresetprefix
+server:-  Fantastical ; soup :- The prefix has been reset to *****
+server:-  Respectfully's server2 ; Respectfully :- *server
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *user
+server:-  Respectfully's server2 ; soup :- 
+server:-  Fantastical ; Anuuu :- *ttt <@322735784593588225>
+server:-  Fantastical ; soup :- <@703332774056165438> it is your turn
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+server:-  Fantastical ; LlamaLlama :- *tictactoe <@!322735784593588225>
+server:-  Fantastical ; soup :- <@513677135471443968> it is your turn
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:

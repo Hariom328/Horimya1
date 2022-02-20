@@ -1,0 +1,126 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 476 packages in 3.54s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Respectfully's server2 ; Respectfully :- !remove 10000
+server:-  Respectfully's server2 ; soup :- removed balance10000coins.
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999999990000 coins
+server:-  Respectfully's server2 ; Respectfully :- !addmoney 10000
+server:-  Respectfully's server2 ; soup :- added balance10000coins.
+server:-  Random Shit ; Respectfully :- *addmoney 10000
+server:-  Random Shit ; soup :- added balance10000coins.
+server:-  Random Shit ; Respectfully :- *bal
+server:-  Random Shit ; soup :- You Have 1000000010000 coins
+server:-  Random Shit ; Respectfully :- *bal
+server:-  Random Shit ; soup :- You Have 1000000010000 coins
+server:-  Random Shit ; Anuuu :- *addmoney 10000
+no data, data created
+server:-  Random Shit ; soup :- added balance10000coins.
+server:-  Random Shit ; Anuuu :- *nal
+server:-  Random Shit ; Anuuu :- *bal
+server:-  Random Shit ; soup :- You Have 10000 coins
+server:-  Random Shit ; Anuuu :- *addmoney 10000000000000000000
+server:-  Random Shit ; soup :- added balance10000000000000000000coins.
+server:-  Random Shit ; Anuuu :- *bal
+server:-  Random Shit ; soup :- You Have 10000000000000010000 coins
+server:-  Deebot's Hub ; MiLKGANG :- *https://www.youtube.com/watch?v=0VW59S-7sy4&list=PLOCckLeaVqyebICsbFSelxG3TH9m_xq_o&index=19
+server:-  Deebot's Hub ; MiLKGANG :- *play https://www.youtube.com/watch?v=0VW59S-7sy4&list=PLOCckLeaVqyebICsbFSelxG3TH9m_xq_o&index=19
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Deebot's Hub ; Gaurav :- *dc
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:31) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; MiLKGANG :- *youtube
+server:-  Deebot's Hub ; soup :- Terminated: Invalid Response
+server:-  Deebot's Hub ; soup :- 
+server:-  Fantastical ; Respectfully :- *p 5 Seconds of Summer - Youngblood
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *bal
+server:-  Fantastical ; soup :- You Have 1000000010000 coins
+server:-  Fantastical ; stoner face :- *gamble
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p love story
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Jeff Buckley - Hallelujah (Official Video)` - Now!
+server:-  Gamers Club ; Rythm :- **Skipping?** (1/3 people) **`!forceskip` or `!fs` to force**
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)` - Now!
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *sutup
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+server:-  Fantastical ; soup :- 
+server:-  Bot Test ; Respectfully :- *stealemoji
+server:-  Bot Test ; soup :- You didn't provide any arguments, <@322735784593588225>!
+The proper usage would be: `*steal-emoji <emoji>`
+server:-  Fantastical ; Deebot :- *p https://www.youtube.com/watch?v=SzBBo_2BgKs
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Deebot :- *p https://youtu.be/LDFDcthWB2M
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Deebot :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play https://www.youtube.com/watch?v=_q5wnUh0D5o
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !help
+server:-  Respectfully's server2 ; soup :- 

@@ -1,0 +1,24 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 452 packages in 3.043s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+connected to soupDB
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers

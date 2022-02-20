@@ -1,0 +1,125 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 476 packages in 3.617s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+found 6 high severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- project ka kaam karlo | server id :- 741292481806860390
+9)  server name :- Random Shit | server id :- 754626495783239730
+10)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+11)  server name :- Respectfully's server | server id :- 854999893143322624
+12)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 12 servers
+server:-  Respectfully's server2 ; Respectfully :- !play arcade
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+server:-  Respectfully's server2 ; soup :- 
+server:-  Fantastical ; Respectfully :- *p kimi no zen zen zense
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+(node:30) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:30) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/P95voFBhGI8
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+(node:30) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 closing listeners added to [VoiceConnection]. Use emitter.setMaxListeners() to increase limit
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Bakemonogatari ~Renai Circulation~ [60 FPS ]` - Now!
+server:-  Random Shit ; Respectfully :- *p https://youtu.be/P95voFBhGI8
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Respectfully :- *shuffle
+server:-  Random Shit ; soup :- PlayList has been `SHUFFLED`
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Anuuu :- *slap* take it bitch
+server:-  Random Shit ; Anuuu :- *your horny*
+server:-  Respectfully's server2 ; Respectfully :- !help
+server:-  Respectfully's server2 ; soup :- 
+server:-  Deebot's Hub ; Rythm :- **Playing** 🎶 `OneRepublic - Good Life (Official Music Video)` - Now!
+server:-  Deebot's Hub ; Rythm :- **Playing** 🎶 `Kehlani & G-Eazy - Good Life (from The Fate of the Furious: The Album) [Official Video]` - Now!
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Deebot's Hub ; Rythm :- **Playing** 🎶 `American Pie` - Now!
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/watch?v=UYqM3hvaH90
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *stop
+(node:30) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 119)
+server:-  Bot Test ; soup :- 
+server:-  Fantastical ; stoner face :- *Insert creep smile*
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Funny video}{ kal sunday hai` - Now!
+server:-  Gamers Club ; Rythm :- **Paused** ⏸
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `mere bayanka naam | Latest 2016 Hit | DJ | Koligeet | HD` - Now!
+server:-  Fantastical ; Respectfully :- *p blue da da dee
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 

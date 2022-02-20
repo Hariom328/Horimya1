@@ -1,0 +1,1432 @@
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server200444/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server200444/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+Makefile:61: recipe for target 'libsodium' failed
+make: *** [libsodium] Error 1
+/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN @distube/spotify@0.6.3 requires a peer of distube@^3.0.0-beta.35 but none is installed. You must install peer dependencies yourself.
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2021-09-09T14_51_08_247Z-debug.log
+[DisTube] Downloaded youtube-dl 2021.06.06
+connected to soupDB
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Killin' it | server id :- 780450290917703730
+10)  server name :- Ak Xander | server id :- 786467603358941184
+11)  server name :- HOMIES! | server id :- 792289189507891201
+12)  server name :- SOUP | server id :- 854999893143322624
+13)  server name :- 3A vibes | server id :- 857529988839243776
+14)  server name :- Respectfully's server2 | server id :- 858277238344253441
+15)  server name :- music | server id :- 867701363189743647
+16)  server name :- ARTS | server id :- 875789800362356736
+17)  server name :- chaubey ji ka bday | server id :- 879602640588267552
+18)  server name :- Hmmmm | server id :- 885033065028677654
+total of 18 servers
+server:-  Gamers Club ; Terraria #free-stuff :- **Nioh: The Complete Edition and Sheltered are both free on the Epic Games Store until <t:1631804400>!**
+https://www.epicgames.com/store/en-US/p/nioh-the-complete-edition
+https://www.epicgames.com/store/en-US/p/sheltered
+server:-  Gamers Club ; MEE6 :- **777 STARBOY#5749** just left the server 🙁
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `bbno$ & Rich Brian - edamame (Official Video)` - Now!
+server:-  Gamers Club ; Rythm :- **Skipping?** (1/2 people) **`!forceskip` or `!fs` to force**
+server:-  Random Shit ; Respectfully :- *avatar <@!703332774056165438>
+server:-  Random Shit ; soup :- https://cdn.discordapp.com/avatars/703332774056165438/7e3faf7ee7b7362abcc3a5cb36c62f3b.png?size=4096
+server:-  Fantastical ; Respectfully :- *p hawa hawai
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *loop
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p likhe jo khat tujhe
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p jara jara behkta hai
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p likhe jo khat tujhe
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *stop
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play hawa hawai mr india
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Shawn Mendes, Camila Cabello - Señorita` - Now!
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; MEE6 :- **HkkGamer#0389** just left the server 🙁
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *stop
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play morya re bappa morya
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play amitabh bachan ganpati aarti
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play amitabh bachan om ganpati
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *play kajra re kajra le marathi version
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; HkkGamer :- **https://cdn.discordapp.com/attachments/885607077106561024/885932760219394068/IMG_20210910_222908.jpg
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=w_tOD41MVQg
+server:-  Fantastical ; Respectfully :- *p Taylor Swift - Love Story
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; MEE6 :- **HkkGamer#0389** just left the server 🙁
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `The Kid LAROI, Justin Bieber - STAY (Official Video)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `The Kid LAROI, Justin Bieber - Stay (1 Hour Loop)` - Now!
+server:-  Killin' it ; Aryansoni57 :- *p paper rings
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+(node:215) UnhandledPromiseRejectionWarning: Error: NotPlaying
+    at DisTube.skip (/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:595:23)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:178:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 97)
+(node:215) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Taylor Swift - Paper Rings (Official Audio)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Avicii - SOS ft. Aloe Blacc (Piano Cover)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Zedd, Elley Duhé - Happy Now (Official Music Video)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Juice WRLD - Lucid Dreams (Directed by Cole Bennett)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `King - Tu Aake Dekhle | The Carnival | The Last Ride | Prod. by Shahbeatz | Latest Hit Songs 2020` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `King - Tu Aake Dekhle | The Carnival | The Last Ride | Prod. by Shahbeatz | Latest Hit Songs 2020` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `The Kid LAROI, Justin Bieber - STAY (Official Video)` - Now!
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `The Kid LAROI, Justin Bieber - STAY (Official Video)` - Now!
+server:-  Fantastical ; Gaurav :- *p promto sus
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *stop
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *phttps://www.youtube.com/watch?v=nLnp0tpZ0ok
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=nLnp0tpZ0ok
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p stay
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p death bed
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p bazzi mine
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p love story
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p without you
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/OPf0YbXqDm0
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/ApXoWvfEYVU
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p old town road
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL15B1E77BB5708555
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/JGwWNGJdvx8
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/9bZkp7q19f0
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p montero
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p prompto sus
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *q
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p perfect ed sheeran
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p shoot ron
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p wrap me in plastic momoland
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p build a bitch
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p i wanna be your slave
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *PLAYSKIP stay
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Rythm :- **Shuffled queue** 👌
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  DeterLatteBhaluPie ; MEE6 :- **dramer#3763** has just became a traitor
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+(node:215) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 98)
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Access
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 99)
+(node:215) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 100)
+server:-  A̶S̶Y̶L̶U̶M̶ ̶ ; soup :- 
+server:-  A̶S̶Y̶L̶U̶M̶ ̶ ; soup :- 
+(node:215) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 101)
+server:-  SPG ; soup :- 
+server:-  SPG ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stealemoji <a:akki_stare:790882435591569438>
+ADDED: `https://cdn.discordapp.com/emojis/886329303971803157.gif` to 407860192005324811
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *stealemoji <:CatUWU:856715914161160203>
+ADDED: `https://cdn.discordapp.com/emojis/886329406551900200.png` to 407860192005324811
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *stealemoji :ztsmug:
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *stealemoji :tuhairandi:
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p visiting hours
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *leave
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *1
+server:-  Story Gamer's Hideout ; Miku <3 :- *p visiting hours
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *leave
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *PLAYSKIP visiting hours
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *volume 100
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *leave
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *playskip stay
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *stop
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p stay
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p build a bitch
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p my tears ricochet
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- * build a bitch
+server:-  Story Gamer's Hideout ; Miku <3 :- *p build a bitch
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p heather
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p love yourself
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p bad habits
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p montero
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p cardigan
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *volume 100
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p unstoppable
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p the 1
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p love again dua lipa
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p butter
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p popstar
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Fantastical ; Gaurav :- *stop
+server:-  Fantastical ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- * the revolution the score
+server:-  Story Gamer's Hideout ; Miku <3 :- *p the revolution the score
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- * never let me down
+server:-  Story Gamer's Hideout ; Miku <3 :- *p never let you donw
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p let me love you
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p visiting hours
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p visiting hours
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p shivers
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- * shivers
+server:-  Story Gamer's Hideout ; Miku <3 :- *p shivers
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p the 1
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p the 1
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *p 34+35
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; Miku <3 :- *skip
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Story Gamer's Hideout ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p build a bitch
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p need to know
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p dance monkey
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p here with me
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p deep end
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p ignite
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *1
+server:-  Killin' it ; Aryansoni57 :- *q
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alone
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alone
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p rockabye
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p sweet but psyco
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p https://www.youtube.com/watch?v=orYf6VDtj_k
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p into your arms
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p stay
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p runaway
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *q
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *alone II
+server:-  Killin' it ; Aryansoni57 :- *p alone II
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p into your arms
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p into your arms
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alex goot better now
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alex goot  find you
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alex goot  good time
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p alex goot catch my breath
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=7KPyunRIjr0
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p make you mine
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p stay
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Aryansoni57 :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/mfzs7BYVkWQ
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/r7qovpFAGrQ
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Aryansoni57 :- *p shameless
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/eFTLKWw542g
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Aryansoni57 :- *q
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Aryansoni57 :- *playskip believer
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *tictactoe <@!513677135471443968>
+server:-  Fantastical ; soup :- <@322735784593588225> it is your turn
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *yt
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *dc
+server:-  Fantastical ; soup :- 
+server:-  A̶S̶Y̶L̶U̶M̶ ̶ ; Games Deals :- **[Indiegala] Exit Limbo: Opening (Free/100% off)**
+<https://freebies.indiegala.com/exit-limbo-opening>
+Posted by: *gryllus*
+https://reddit.com/pmnhx4
+server:-  Fantastical ; Respectfully :- *p stay
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Industry baby
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Industry baby
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !Play Cold
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Fantastical ; Fantastic Gamer :- *dc
+server:-  Fantastical ; CrysilGgs :- *dc
+(node:215) UnhandledPromiseRejectionWarning: Error: NotPlaying
+    at DisTube.stop (/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:547:23)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:173:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 106)
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Fantastic Gamer :- *p https://www.youtube.com/watch?v=xvJoV9-iR20
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Pressure
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play https://www.youtube.com/watch?v=j8F1NwrHBIU
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Two peas in a  Pod
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  HOMIES! ; Rythm :- **Playing** 🎶 `Zedd, Alessia Cara - Stay (Lyric Video)` - Now!
+server:-  Ak Xander ; Ak Xander :- !play https://www.youtube.com/watch?v=9-7JmGB9BRA
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Fantastical ; stoner face :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; stoner face :- *p baby justin
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Rinkia ke papa
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Cheap thrills
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Life is a Highway
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play https://www.youtube.com/watch?v=5s5j9OI-Bzg
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Mogi :- !play https://open.spotify.com/track/16VcGQ5bXtMW25go8xC2Nq?si=277ce6fe11fd4423
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Mogi :- !queue https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ?si=62097ff2077e46a3
+(node:215) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'songs' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:215:30)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 116)
+server:-  Ak Xander ; Mogi :- !queue2 https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ?si=62097ff2077e46a3
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=yWHrYNP6j4k
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Holiday
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; Ak Xander :- !play Stereo Hearts
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Ak Xander ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *invite
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+(node:215) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 117)
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Access
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 118)
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 119)
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *help
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *uwu
+server:-  Deagle ; soup :- <@593441366432940042>, UwU
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p https://www.youtube.com/playlist?list=PLP8GEEGqI_ELLQe-0LnVYQxup3qqJEvPg
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *p https://www.youtube.com/playlist?list=PLP8GEEGqI_EILbhKRZqIJBGGfeG_p-q_0
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *q
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Deagle ; Deagle :- *tictactoe
+server:-  Deagle ; soup :- please mention someone to play against
+server:-  Deagle ; Deagle :- *play god level donotello
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *loop
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *loop1
+server:-  Deagle ; Deagle :- *loop 1
+server:-  Deagle ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *s
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *clear
+server:-  Killin' it ; Aryansoni57 :- *dc
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p mar gaya madarchod
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p bheegi bheegi rate
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; MiLKGANG :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p phir haath me sharab hai
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; MiLKGANG :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p phir haath me sharab hai
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p kya hua tera wada
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p humko hamise chura lo
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p humko hamise chura lo
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p samne wali khidki
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p gulabi aankhe
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *bheegi bheegi ratoon me
+server:-  Fantastical ; Gaurav :- *p bheegi bheegi rato me
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p pyaar hua ikrar hua
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p https://open.spotify.com/playlist/2bfPdkYGwGrewykas1zoL8?si=ZK3BHo6jQRmjU76hFh6XfA&dl_branch=1
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *p prompto sus
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Gaurav :- *skil
+server:-  Fantastical ; Gaurav :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Deagle ; Deagle :- *p god level donotello
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *loop 1
+server:-  Deagle ; soup :- 
+server:-  DeterLatteBhaluPie ; MEE6 :- **BABURAO GANPATRAO APTE#0882** has just became a traitor
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Imagine Dragons - No Time For Toxic People (Official Lyric Video)` - Now!
+server:-  Killin' it ; CrysilGgs :- *p starving
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; CrysilGgs :- *1
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; CrysilGgs :- * 1
+server:-  Killin' it ; CrysilGgs :- *p starving
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; CrysilGgs :- *loop
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Deagle ; RuE Yt :- *help
+server:-  Deagle ; soup :- 
+server:-  Deagle ; RuE Yt :- *play stay
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; RuE Yt :- *invite
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 152)
+server:-  Deagle ; RuE Yt :- *test
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 153)
+server:-  Deagle ; RuE Yt :- *meme
+soup :- meme sent | Link : https://redd.it/pmzqst | subreddit: memes
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 154)
+server:-  Deagle ; RuE Yt :- *meme
+soup :- meme sent | Link : https://redd.it/pmvria | subreddit: memes
+server:-  Deagle ; soup :- 
+server:-  Deagle ; RuE Yt :- *snake
+server:-  Deagle ; soup :- 
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 155)
+(node:215) UnhandledPromiseRejectionWarning: DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:215) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 156)
+server:-  Deagle ; RuE Yt :- *chess
+server:-  Deagle ; soup :- 
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `Martin Garrix feat. Bonn - High On Life (Official Video)` - Now!
+server:-  Deagle ; RuE Yt :- *help
+server:-  Deagle ; soup :- 
+server:-  Fantastical ; MiLKGANG :- *p gimme more
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Rythm :- **Shuffled queue** 👌
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Deagle ; Deagle :- *p godzilla eminem
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; soup :- 
+server:-  Deagle ; Deagle :- *loop 1
+server:-  Deagle ; soup :- 
+server:-  Fantastical ; Respectfully :- *yt
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *chess
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *ttt <@330334362816217098>
+server:-  Fantastical ; soup :- <@703332774056165438> it is your turn
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+:white_large_square::white_large_square::white_large_square:
+server:-  Fantastical ; Respectfully :- *user <@!703332774056165438>
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p stay
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 

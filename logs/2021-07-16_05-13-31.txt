@@ -1,0 +1,321 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 444 packages in 3.85s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X - HOLIDAY (Official Video)` - Now!
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Ali Gatie - It's You (Official Lyrics Video)` - Now!
+server:-  Deebot's Hub ; Rythm :- **Playing** 🎶 `Funny Doraemon Song||Ashish Chanchlani Doraemon||Gaali Doraemon||Doraemon Dubbing` - Now!
+server:-  Fantastical ; Respectfully :- *p creeper aw man
+server:-  Fantastical ; soup :- **Choose an option from below**
+**1**. "Revenge" - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love (Music Video) - `4:25`
+**2**. Creeper, Aw Man (Music Video) - `4:06`
+**3**. Creeper, Aw Man (1 Hour Loop) | “Revenge” by CaptainSparklez (1 Hour Loop) - `1:00:03`
+**4**. MINECRAFT CREEPER RAP | Dan Bull | ENDING A - `2:38`
+**5**. CaptainSparklez - "Revenge" (the original) 10 HOURS - `10:00:01`
+**6**. Donald Trump - Creeper aw man (A White House Parody of a Minecraft Parody) - `3:40`
+**7**. Creeper, Aw Man by Obama - This Day in Minecraft History - `2:18`
+**8**. Creeper? Aw Man! - `19:51`
+**9**. CREEPER.. AW MAN!! - `6:14`
+**10**. Roblox Song ♪ "Camper? Aw Man..." Music Video - `3:57`
+**11**. ASIAN CREEPER? Aw Man "Revenge" (Asian PARODY) - `2:09`
+**12**. Preston Sings Creeper Aww Man (Revenge) - `1:16`
+**13**. "Revenge" (Official Lyrics) - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love - `3:40`
+**14**. Testing Clickbait Minecraft Tricks That Are 100% Real - `14:39`
+**15**. CREEPER? Aw man..."Revenge" [MINECRAFT Parody] - Cover by Caleb Hyles - `3:41`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Fantastical ; soup :- Playing `"Revenge" - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love (Music Video)` - `04:25`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Fantastical ; soup :- Playing `"Fallen Kingdom" - A Minecraft Parody of Coldplay's Viva la Vida (Music Video)` - `04:48`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Fantastical ; soup :- Playing `Fallen Kingdom: The Complete Minecraft Music Video Series` - `22:25`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; Respectfully :- *p sanedo laal sonedo
+server:-  Bot Test ; soup :- **Choose an option from below**
+**1**. Sanedo Full Video - Made In China|Mika,Nikhita, Benny|Sachin-Jigar|Rajkummar & Mouni - `3:51`
+**2**. SANEDO SANEDO - SANEDO LAL SANEDO - સનેડો સનેડો - `1:00:11`
+**3**. Sanedo - Made In China | Rajkummar & Mouni | Mika Singh, Nikhita Gandhi, Benny Dayal | Sachin-Jigar - `2:16`
+**4**. Sanedo sanedo | Falguni pathak | 2019 | Navratri - `4:12`
+**5**. Sanedo Sanedo Laal Sanedo Dhol Mix Navaratri Special - `11:08`
+**6**. Sanedo Sanedo Song At MahaShivaRatri Celebrations 2021 | Shivaratri | Lord Shiva | YOYO TV CHANNEL - `11:40`
+**7**. સનેડો સનેડો I Sanedo I Sanedo Sanedo Lal Lal Sanedo I Kamlesh Barot I Sanedo Adivasi - `14:39`
+**8**. SANEDO DANCE - DIAMOND JUBILEE - INDIA - `4:54`
+**9**. Sanedo – Mitron | Jackky Bhagnani| Kritika Kamra| Darshan Raval| Raja Hassan| Tanishk B |Vayu - `2:56`
+**10**. Jain Stavan Dada No Sanedo Lal Sanedo Mahavir/Mahaveer Song - `1:02:50`
+**11**. Sanedo song(navratri special dance)| Regency Sarvam,titwala - `3:14`
+**12**. Sanedo Sanedo Song | Mahashivaratri 2021 | Isha Yoga Centre - `11:40`
+**13**. DJ SANEDO | SANEDO LAL SANEDO | DJ SANEDO PART 1 | SANEDO SANEDO | BOLLYWOOD GARBA | GUJRATI GARBA - `29:41`
+**14**. Sanedo Lyric Video - Made In China|Mika,Nikhita, Benny|Sachin-Jigar|Rajkummar & Mouni - `3:56`
+**15**. Sanedo song lyrics - `3:36`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Bot Test ; soup :- Playing `Sanedo sanedo | Falguni pathak | 2019 | Navratri` - `04:12`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; Respectfully :- *volume 100
+server:-  Bot Test ; soup :- Playing `#falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 3` - `02:55:53`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X - HOLIDAY (Official Video)` - Now!
+server:-  Fantastical ; moksh jain :- *play #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 3 - 02:55:53
+Volume: 100% | Filter: Off | Loop: Off | Autoplay: On
+server:-  Fantastical ; soup :- **Choose an option from below**
+**1**. #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 3 - `2:55:53`
+**2**. #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 2 - `2:39:44`
+**3**. Falguni Pathak Navratri 2019 - Day 9 - `3:30:12`
+**4**. Falguni Pathak Navratri 2019 - Day 8 - `3:35:40`
+**5**. #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 5 - `2:45:34`
+**6**. #falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 4 - `3:05:06`
+**7**. Falguni Pathak Navratri 2019 - Day 10 - `1:18:25`
+**8**. Falguni Pathak Navratri 2019 - Day 6 - `2:29:56`
+**9**. Falguni Pathak Navratri 2019 - Day 1 - `2:22:32`
+**10**. Falguni Pathak Navratri 2018 - Day 8 - `2:05:20`
+**11**. Falguni Pathak Navratri 2018 - Day 7 - `3:40:27`
+**12**. Falguni Pathak Navratri 2018 - Day 2 - `2:08:44`
+**13**. Garba Songs - `undefined`
+**14**. #falgunipathak #navratri2019 Glimpse of Navratri 2019 | Falguni Pathak - `4:46`
+**15**. Yash - `undefined`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Fantastical ; soup :- Playing `#falgunipathak #navratri2019 Falguni Pathak Navratri 2019 - Day 3` - `02:55:53`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Gamers Club ; Walky :- *The Baiter Cypher Remix* | Ft. HkkGamer, Lion, Longbone, Walky
+server:-  Fantastical ; still stooopid :- *p among us remix
+server:-  Fantastical ; soup :- **Choose an option from below**
+**1**. AMONG US Theme Song (Moondai EDM Remix) - `2:10`
+**2**. Among Us Drip Theme Song Original (Among Us Trap Remix / Amogus Meme Music) - `1:13`
+**3**. Among Us Drip (1 hour perfect loop) - `1:00:27`
+**4**. AMONG US Song (Dance Music Video) /  Moondai Remix - `2:09`
+**5**. AMONG US Dance Video - Moondai EDM Remix (DTB) - `2:11`
+**6**. Among Us / Eurobeat Remix - `2:25`
+**7**. a song using ONLY sounds from AMONG US - `1:31`
+**8**. Amogus (EDM Remix) - `1:32`
+**9**. Among Us Imposter Battle V2 | Friday Night Funkin' Mod - `9:08`
+**10**. [Among Us Song] SharaX - Impostor (Electro Swing) - `2:47`
+**11**. Among Us But Everyone Is A Baby - `9:51`
+**12**. AMONG US Theme Song (Moondai EDM Remix) [1 HOUR] - `1:01:11`
+**13**. Among Us Dubstep Remix - `2:54`
+**14**. Among Us lofi hip hop - beats to be sus to - `2:18`
+**15**. AMONG US but it's a TRAP (Renzyx Remix) - `1:34`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Fantastical ; soup :- Added Among Us Drip Theme Song Original (Among Us Trap Remix / Amogus Meme Music) - `01:13` to the queue by <@530306305307705354>
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=9pGh6d92P3U
+server:-  Gamers Club ; MEE6 :- **KNIGHT#0007** just left the server 🙁
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=CqGjrRMHXsg
+server:-  Bot Test ; Respectfully :- *p blinding light
+server:-  Bot Test ; soup :- **Choose an option from below**
+**1**. The Weeknd - Blinding Lights (Official Video) - `4:23`
+**2**. The Weeknd - Blinding Lights (Official Audio) - `3:24`
+**3**. The Weeknd - Blinding Lights (Lyrics) - `3:20`
+**4**. The Weeknd - Blinding Lights (Live On The 2020 MTV VMAs) - `3:19`
+**5**. The Weeknd - Blinding Lights (Lyrics) -  1 hour lyrics - `1:00:04`
+**6**. The Weeknd - Blinding Lights  - Vintage Dance Choreography - Roberto F - `3:41`
+**7**. The Weeknd ft. ROSALÍA - Blinding Lights [Remix] (Official Lyric Video) - `3:35`
+**8**. The Weeknd - Blinding Lights - 10 HOURS LOOP VERSION - `10:00:36`
+**9**. The Weeknd - Blinding Lights (EXTENDED) 10 Minute Music - `10:20`
+**10**. The Weeknd Performs "Blinding Lights" | 2020 MTV VMAs - `3:28`
+**11**. Teddy Swims - Blinding Lights (The Weeknd Cover) - `3:36`
+**12**. Dragalia Lost | Master Asura's Blinding Light Co-op Clear 1:38 - `2:36`
+**13**. The Streets - Blinded By The Lights (Official Video) - `5:15`
+**14**. X Ambassadors - Blinding Lights (The Weeknd Cover) - `3:22`
+**15**. The Weeknd - Blinding Lights (imy2 Cover) - `3:21`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Bot Test ; soup :- Playing `The Weeknd - Blinding Lights (Official Video)` - `04:23`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `The Weeknd - Save Your Tears (Official Music Video)` - `04:09`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `The Weeknd & Ariana Grande – Save Your Tears (Live on The 2021 iHeart Radio Music Awards)` - `03:00`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Dua Lipa - Future Nostalgia Medley (Live at the BRIT Awards 2021)` - `05:15`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)` - `05:05`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Dua Lipa: Tiny Desk (Home) Concert` - `15:58`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Alicia Keys: NPR Music Tiny Desk Concert` - `27:47`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- Playing `H.E.R.: NPR Music Tiny Desk Concert` - `18:52`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; Respectfully :- *p arcade
+server:-  Bot Test ; soup :- **Choose an option from below**
+**1**. Duncan Laurence - Arcade (Lyrics) ft. FLETCHER - `3:04`
+**2**. Duncan Laurence - Arcade (Lyric Video) ft. FLETCHER - `3:06`
+**3**. Duncan Laurence - Arcade (Lyrics) - `3:04`
+**4**. Arcade1Up X-Men Arcade Cabinet - $699 is just not for me... - `8:34`
+**5**. The Netherlands - LIVE - Duncan Laurence - Arcade - Grand Final - Eurovision 2019 - `3:25`
+**6**. TOP 50 FUNNIEST FAILS & WINS IN MINECRAFT (#2) - `10:15`
+**7**. Arcade - Duncan Laurence {LYRICS} ~!WINNER ESC 2019!~ - `3:04`
+**8**. Duncan Laurence - Arcade - Official Music Video - The Netherlands 🇳🇱 - Eurovision 2019 - `3:12`
+**9**. Duncan Laurence - Arcade (Lyrics) [Tiktok Version] - `3:20`
+**10**. Duncan Laurence - Arcade - The Netherlands - LIVE - Second Semi-Final - Eurovision 2019 - `3:24`
+**11**. Duncan Laurence - Arcade (Lyrics) ft. FLETCHER - `3:04`
+**12**. Duncan Laurence - Arcade (Lyrics) TikTok Version - `3:03`
+**13**. Duncan Laurence feat. FLETCHER – Arcade - Loving You Is A Losing Game (Live On The Elle... - `3:14`
+**14**. Exploring Jenkinson's South Arcade on the Jenkinson's Boardwalk! Point Pleasant Beach, NJ! - `14:49`
+**15**. Arcade 1 hour loop Duncan Laurence | Arcade Lyrics ft FLETCHER 1 Hour 1080p - `1:02:56`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Bot Test ; soup :- Added Duncan Laurence - Arcade (Lyrics) ft. FLETCHER - `03:04` to the queue by <@322735784593588225>
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- Playing `Duncan Laurence - Arcade (Lyrics) ft. FLETCHER` - `03:04`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `@Rachel Lorin - Goodbye (Lyrics) [7clouds Release]` - `04:08`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Duava - Colombo Rain (Lyrics) [7clouds Release]` - `02:52`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `CPYRGHT & Alexis Donn - House of Glass (Lyrics) [7clouds Release]` - `02:51`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; soup :- Playing `Murdbrain & Savrokks - Close your eyes (Lyrics) [7clouds Release]` - `02:39`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Bot Test ; stoner face :- *p among us drip remix
+server:-  Bot Test ; soup :- **Choose an option from below**
+**1**. Among Us Drip Theme Song Original (Among Us Trap Remix / Amogus Meme Music) - `1:13`
+**2**. Among us Trap Remix ( DRIP ) [1 Hour] | By Leonz - `1:00:19`
+**3**. Among Us - `1:13`
+**4**. Among Us Drip (1 hour perfect loop) - `1:00:27`
+**5**. Among Drip Song 3 (Among Us Lofi Hip Hop Remix) - `1:03`
+**6**. Among Us Drip [Orchestral Remix] - `1:56`
+**7**. Among Us / Eurobeat Remix - `2:25`
+**8**. Amogus (EDM Remix) - `1:32`
+**9**. Amogus (Hardbass Remix) - `2:07`
+**10**. Among Drip Remix - Sybranax 2 [The Songs no copyright] - `3:06`
+**11**. Among Us DRIP Theme - Piano Remix - `2:18`
+**12**. Drip Too Hard Among Us Remix - `0:26`
+**13**. Fresh (Among us Drip Remix) - Friday Night Funkin - `1:29`
+**14**. AMONGUS DRIP 8 BIT | Among us trap remix 8 bit music - `1:21`
+**15**. [ORIGINAL] Grubhub Ad but they got the drip 😳 (Among Us Trap Remix x GrubHub Song) (TikTok Meme) - `0:27`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Bot Test ; soup :- Added Among Us Drip Theme Song Original (Among Us Trap Remix / Amogus Meme Music) - `01:13` to the queue by <@815224810770137118>
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Renai Circulation「恋愛サーキュレーション」歌ってみた【＊なみりん】` - Now!
+server:-  Random Shit ; Respectfully :- *p arcade
+server:-  Random Shit ; soup :- **Choose an option from below**
+**1**. Duncan Laurence - Arcade (Lyrics) ft. FLETCHER - `3:04`
+**2**. Duncan Laurence - Arcade (Lyric Video) ft. FLETCHER - `3:06`
+**3**. Duncan Laurence - Arcade (Lyrics) - `3:04`
+**4**. Arcade1Up X-Men Arcade Cabinet - $699 is just not for me... - `8:34`
+**5**. The Netherlands - LIVE - Duncan Laurence - Arcade - Grand Final - Eurovision 2019 - `3:25`
+**6**. TOP 50 FUNNIEST FAILS & WINS IN MINECRAFT (#2) - `10:15`
+**7**. Arcade - Duncan Laurence {LYRICS} ~!WINNER ESC 2019!~ - `3:04`
+**8**. Duncan Laurence - Arcade (Lyrics) [Tiktok Version] - `3:20`
+**9**. Duncan Laurence - Arcade - Official Music Video - The Netherlands 🇳🇱 - Eurovision 2019 - `3:12`
+**10**. Duncan Laurence - Arcade (Lyrics) ft. FLETCHER - `3:04`
+**11**. Duncan Laurence - Arcade - The Netherlands - LIVE - Second Semi-Final - Eurovision 2019 - `3:24`
+**12**. Duncan Laurence - Arcade (Lyrics) TikTok Version - `3:03`
+**13**. Duncan Laurence feat. FLETCHER – Arcade - Loving You Is A Losing Game (Live On The Elle... - `3:14`
+**14**. Exploring Jenkinson's South Arcade on the Jenkinson's Boardwalk! Point Pleasant Beach, NJ! - `14:49`
+**15**. Arcade 1 hour loop Duncan Laurence | Arcade Lyrics ft FLETCHER 1 Hour 1080p - `1:02:56`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Random Shit ; soup :- Playing `Duncan Laurence - Arcade (Lyrics) ft. FLETCHER` - `03:04`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Anuuu :- *p melody c
+server:-  Random Shit ; soup :- **Choose an option from below**
+**1**. Melody for C  - Sonny Clark Quintet - `7:58`
+**2**. TOM FRAGER - Lady Melody (clip officiel) - `3:11`
+**3**. Melody For C (2008 Digital Remaster; Rudy Van Gelder Edition) - `7:51`
+**4**. Gracy Hopkins - Melody (feat. Tayc) (Photoshoot BTS Lyric Video) - `2:26`
+**5**. The Oldest Known Melody (Hurrian Hymn no.6 - c.1400 B.C.) - `5:43`
+**6**. AMANDA MALELA - Melody [Official Video] - `3:48`
+**7**. Melody Gardot - C’est Magnifique – Live In Namouche Studios, Lisbon 2020 Featuring Antó... - `5:15`
+**8**. Melody Gardot - Baby I'm A Fool (Official Video) - `3:30`
+**9**. 姐妹悄悄話 SistersTalkTalkShow EP73  隔離中的小小murmur - `53:55`
+**10**. Le live : Melody Gardot « C'est magnifique » - C à Vous - 24/02/2021 - `3:45`
+**11**. Melody For C - `8:15`
+**12**. How to write melodies in the key of C major/A minor with 2 basic concepts - `12:55`
+**13**. Melody Gardot - C’est Magnifique ft. António Zambujo - `4:54`
+**14**. If We Have the Lord's Presence - `2:07`
+**15**. Trinity Grade 1 Melody in C by Le Couppey - `2:16`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Random Shit ; soup :- Searching canceled
+server:-  Random Shit ; Respectfully :- *volume 100
+server:-  Random Shit ; Respectfully :- *play melody cadmium
+server:-  Random Shit ; soup :- **Choose an option from below**
+**1**. Cadmium - Melody (ft. Jon Becker) (Lyrics Video) - `3:41`
+**2**. Cadmium - Melody (feat. Jon Becker) - `3:41`
+**3**. Cadmium - Melody (feat. Jon Becker) [Lyric Video] - `3:41`
+**4**. Nightcore - Melody - `3:01`
+**5**. LATE SHIFT - Cadmium - Melody (feat. Jon Becker) - `3:37`
+**6**. Cadmium - Melody (feat. Jon Becker) [1 HOUR VERSION] - `1:02:26`
+**7**. Cadmium - Melody (Lyrics) ft. Jon Becker - `3:37`
+**8**. Cadmium feat. Jon Becker - Melody ( Official NB Music Video HD ) - `3:19`
+**9**. Cadmium - Melody (feat. Jon Becker) - Piano Tutorial / Piano Cover 🎹 - Synthesia (+ Free MIDI) - `3:45`
+**10**. أغنية أجنبية خيالية مترجمة 😥❤️  Cadmium - Melody - `3:34`
+**11**. Cadmium feat. Jon Becker - Melody (Azept Hardstyle Bootleg) - `4:11`
+**12**. Cadmium - Melody ft. Jon Becker 1Hour - `1:02:21`
+**13**. Alan Walker ft. Charlie Puth - Cadmium-Melody (Lyric Video 2018 - `3:51`
+**14**. Cadmium - Melody Ft. Jon Becker | Sub Español - `3:37`
+**15**. Melody - Cadmium (Tradução) - `3:36`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Random Shit ; soup :- Added Cadmium - Melody (ft. Jon Becker) (Lyrics Video) - `03:41` to the queue by <@322735784593588225>
+server:-  Random Shit ; soup :- Playing `Cadmium - Melody (ft. Jon Becker) (Lyrics Video)` - `03:41`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Anuuu :- *p love story
+server:-  Random Shit ; soup :- **Choose an option from below**
+**1**. Taylor Swift - Love Story - `3:57`
+**2**. Indila - Love Story - `4:45`
+**3**. NDOA YA CHIZI | LOVE STORY - `7:44`
+**4**. Love Story - Violin Cover by Karolina Protsenko - `4:01`
+**5**. ◀𝐓𝐡𝐞 𝐩𝐫𝐢𝐧𝐜𝐞𝐬𝐬 𝐨𝐟 𝐭𝐰𝐨 𝐦𝐨𝐧𝐭𝐞𝐫𝐬▶||BL ||GLMM ||Gay love story ||Gacha mini movie ||Gacha life ||Yaoi🏳️‍🌈 - `7:04`
+**6**. Arjun Kapoor New Released Bollywood Movie 2021 | Latest Superhit Action Love Story Movie 2021 Hd - `Live`
+**7**. Andy Williams - (Where Do I Begin) LOVE STORY 1970 (High Quality) - `3:22`
+**8**. Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video] - `4:01`
+**9**. oru vartha solla || Episode-07 || Fayas & Swetha|| Love story - `15:48`
+**10**. Love Story - Taylor Swift (Minor Key cover by Sarah Cothran) - `3:12`
+**11**. LOVE STORY - Film Complet en Français (Comédie Romantique) - `1:32:35`
+**12**. What Happened Mr. Playboy? || Gay GLMM || gay love stories || - `6:32`
+**13**. Aisa Deewana | Heart Touching Love Story 2021 | New Hindi Song | Love Book | - `6:01`
+**14**. Taylor Swift - Love Story (Lyrics) "romeo save me" - `4:35`
+**15**. ❦”Shh.. I’m Here”||Gay Love Story||BL||GLMM||Gacha Life Mini Movie ❦ - `13:01`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Random Shit ; soup :- Added Taylor Swift - Love Story - `03:57` to the queue by <@703332774056165438>
+server:-  Random Shit ; Respectfully :- *p love story tiktok
+server:-  Random Shit ; soup :- **Choose an option from below**
+**1**. Love Story Remix TikTok Dance Challenge Compilation - `9:29`
+**2**. Taylor Swift - Love Story (Lyrics) "Disco Lines Remix" [TikTok song] - `2:34`
+**3**. Love Story - Taylor Swift (Minor Key cover by Sarah Cothran) - `3:12`
+**4**. Love Story Remix TikTok Dance Challenge - `11:28`
+**5**. TIKTOK VIDEO LOVE ROMANTIC COMPILATION TIK TOK COUPLE CUTE #4 - `4:10`
+**6**. Love Story Time Tik Tok Compilation 2020 - `4:07`
+**7**. Nana And Kalac Love Story Couple Love Cute Short Film Part |Tik Tok Time - `1:12:25`
+**8**. Taylor Swift - Love Story (Lyrics) Disco Lines Remix | marry me juliet you'll never have to be alone - `2:47`
+**9**. Marry Me Juliet - Love Story - Disco Lines Remix (Tik Tok Compilation) - `13:13`
+**10**. Indila - Love Story - `4:45`
+**11**. (Lyric)VIRAL TIKTOK REMIX LOVE STORY TAYLOR SWIFT FULL AUDIO VERSION - `4:27`
+**12**. Love Story - Taylor Swift (Disco Lines Remix) "Marry Me Juliet" | TikTok Compilation - `10:16`
+**13**. LOVE STORY - COMPILATION SINGING ON TIKTOK - `9:03`
+**14**. TIK TOK ROMANTIQUE COMPILATION TIK TOK LOVE ROMANTIC #2 - `4:26`
+**15**. Tik tok | 💔 broken heart | sad break up stories 😔😔 - `13:56`
+*Enter anything else or wait 60 seconds to cancel*
+server:-  Random Shit ; soup :- Added Taylor Swift - Love Story (Lyrics) "Disco Lines Remix" [TikTok song] - `02:34` to the queue by <@322735784593588225>
+server:-  Random Shit ; soup :- Playing `Taylor Swift - Love Story` - `03:57`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; soup :- Playing `Taylor Swift - Love Story (Lyrics) "Disco Lines Remix" [TikTok song]` - `02:34`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; soup :- Playing `Taylor Swift - Love Story (Lyrics) Disco Lines Remix [TikTok song]` - `04:37`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Respectfully :- *p https://youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Random Shit ; soup :- Added `Sound` playlist (82 songs) to queue
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Respectfully :- *shuffle
+server:-  Random Shit ; soup :- PlayList has been `SHUFFLED`
+server:-  Random Shit ; soup :- Playing `Dragon (feat. Skybourne)` - `04:15`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; soup :- Playing `Indila - Dernière Danse (Clip Officiel)` - `03:35`
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Respectfully :- *sutup
+server:-  Random Shit ; soup :- Stopped the music!
+server:-  Gamers Club ; MEE6 :- **Sharan.#8207** just left the server 🙁

@@ -1,0 +1,31 @@
+npm WARN deprecated @distube/ytdl@2.0.6: This package will not be updated anymore.
+
+> @distube/youtube-dl@1.0.4 postinstall /home/minecraft/multicraft/servers/server200444/node_modules/@distube/youtube-dl
+> node ./scripts/download.js
+
+Downloaded youtube-dl 2021.06.06
+npm WARN @distube/spotify@0.4.0 requires a peer of distube@3||^3.0.0-0 but none is installed. You must install peer dependencies yourself.
+npm WARN discord_bot@1.0.0 No repository field.
+
+added 5 packages from 6 contributors, removed 6 packages, updated 3 packages and audited 449 packages in 6.118s
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+/home/minecraft/multicraft/servers/server200444/node_modules/@distube/spotify/index.js:72
+            if (Array.isArray(queue.songs) && queue.songs[0]?.streamURL) resolve(clearInterval(check));
+                                                             ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:5:23)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)

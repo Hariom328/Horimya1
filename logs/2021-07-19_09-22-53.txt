@@ -1,0 +1,24 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 450 packages in 3.114s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:122
+        if (!oldState?.channel) return;
+                      ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:4:17)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)

@@ -1,0 +1,132 @@
+npm WARN deprecated discord-api-types@0.22.0: No longer supported. Install the latest release!
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server259522/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server259522/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+Makefile:61: recipe for target 'libsodium' failed
+make: *** [libsodium] Error 1
+/home/minecraft/multicraft/servers/server259522/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server259522/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2022-02-20T09_57_45_873Z-debug.log
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.12.17
+this bot is online Horimya#4226! ID:- 944679787933339649
+1)  server name :- idk what just project ig | server id :- 944565698179522601
+total of 1 servers
+server:-  idk what just project ig ; Respectfully :- *play headlight
+server:-  idk what just project ig ; Horimya :- 
+server:-  idk what just project ig ; Horimya :- **Choose an option from below**
+**1**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:42`
+**2**. Robin Schulz - Headlights [feat. Ilsey] [Official Video] - `3:49`
+**3**. The Wallflowers - One Headlight (Official Music Video) - `4:39`
+**4**. Eminem - Headlights ft. Nate Ruess (Official Music Video) - `4:11`
+**5**. Unboxing My ANCHEER 5000LM Cree XM L 3 x T6 LED Headlight - `8:04`
+**6**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:39`
+**7**. Eminem ft Nate Ruess - Headlights Lyrics - `5:42`
+**8**. How Headlights Became So High-Tech - `16:06`
+**9**. 3M™ Headlight Lens Restoration System How to video - `5:33`
+**10**. How To Restore Your Headlights With The Quixx Headlight Lens Restorer & Sealer - `5:14`
+**11**. How to Aim and Align Your Headlights - `8:34`
+**12**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Audio] - `2:40`
+**13**. archive - headlight - `3:35`
+**14**. GS27 Headlight Correction Kit – Manual Restoration - `1:06`
+**15**. MONKEY MAJIK - Headlight 【Official Music Video】 - `5:50`
+*Enter anything else or wait 60 seconds to cancel*
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install ytdl-core@latest".
+(node:216) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+content: Must be 2000 or fewer in length.
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:216) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:216) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  idk what just project ig ; Horimya :- Playing `Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video]` - `02:42`
+Requested by: <@322735784593588225>
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `Off`
+server:-  idk what just project ig ; Respectfully :- *play headlight
+server:-  idk what just project ig ; Horimya :- 
+server:-  idk what just project ig ; Horimya :- **Choose an option from below**
+**1**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:42`
+**2**. Robin Schulz - Headlights [feat. Ilsey] [Official Video] - `3:49`
+**3**. The Wallflowers - One Headlight (Official Music Video) - `4:39`
+**4**. Eminem - Headlights ft. Nate Ruess (Official Music Video) - `4:11`
+**5**. Unboxing My ANCHEER 5000LM Cree XM L 3 x T6 LED Headlight - `8:04`
+**6**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Lyric Video] - `2:39`
+**7**. Eminem ft Nate Ruess - Headlights Lyrics - `5:42`
+**8**. 3M™ Headlight Lens Restoration System How to video - `5:33`
+**9**. How Headlights Became So High-Tech - `16:06`
+**10**. inside an LED matrix LASER headlight - `22:49`
+**11**. How to Aim and Align Your Headlights - `8:34`
+**12**. Alok & Alan Walker - Headlights (feat. KIDDO) [Official Audio] - `2:40`
+**13**. archive - headlight - `3:35`
+**14**. GS27 Headlight Correction Kit – Manual Restoration - `1:06`
+**15**. Headlight Restoration - Ford XC Panel Van | Astill Design Extra - `25:44`
+*Enter anything else or wait 60 seconds to cancel*
+(node:216) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+content: Must be 2000 or fewer in length.
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server259522/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:216) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+server:-  idk what just project ig ; Horimya :- Playing `archive - headlight` - `03:35`
+Requested by: <@322735784593588225>
+Volume: `100%` | Filter: `Off` | Loop: `Off` | Autoplay: `Off`

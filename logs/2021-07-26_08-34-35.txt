@@ -1,0 +1,219 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 452 packages in 3.596s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Fantastical ; LlamaLlama :- *akinator
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+(node:30) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:89:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:30) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *setprefix Battlefield 1 Shortcut Kit: Vehicle Bundle
+server:-  Fantastical ; soup :- Prefix has Been Set to **Battlefield 1 Shortcut Kit: Vehicle Bundle**
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat hello
+server:-  Fantastical ; soup :- Hi, my friend! Do you want me to tell you a joke?
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat yes
+server:-  Fantastical ; soup :- Innkeeper: "The room is $15 a night. It's $5 if you make your own bed." Guest: "I'll make my own bed." Innkeeper: "Good. I'll get you some nails and wood."
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat very funny
+server:-  Fantastical ; soup :- That was funny.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat i agree
+server:-  Fantastical ; soup :- I feel that it is a good idea.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat no
+server:-  Fantastical ; soup :- Definitely not.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat sex?
+server:-  Fantastical ; soup :- I'm designed to be a female chatbot. Are you a boy or a girl?
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat boy
+server:-  Fantastical ; soup :- I'm a female chat bot.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat so sex?
+server:-  Fantastical ; soup :- Let's change the topic.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat no sex?
+server:-  Fantastical ; soup :- What do you want to do then?
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat sex
+server:-  Fantastical ; soup :- Great minds discuss ideas; average minds discuss events; small minds discuss people. - Eleanor Roosevelt
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat so no sex?
+server:-  Fantastical ; soup :- Are you sure?
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat no
+server:-  Fantastical ; soup :- That's OK. I'm not very sure either.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat byt sex
+server:-  Fantastical ; soup :- I'm designed to be a female chatbot. How would the world look like without women?
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat is deebot good
+server:-  Fantastical ; soup :- Some people think deebot isn't good.
+server:-  Fantastical ; LlamaLlama :- Battlefield 1 Shortcut Kit: Vehicle Bundlechat is llamu good?
+server:-  Fantastical ; soup :- Some people think llamu is good.
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- Battlefield 1 Shortcut Kit: Vehicle Bundleresetprefix
+server:-  Fantastical ; soup :- The prefix has been reset to *****
+server:-  Fantastical ; stoner face :- *p tripaloski
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+(node:30) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+server:-  Fantastical ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Respectfully :- !p scam 1992
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Anuuu :- !p scam 1992 music
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Respectfully's server ; Anuuu :- *setprefix !
+server:-  Respectfully's server ; soup :- Prefix has Been Set to **!**
+server:-  Random Shit ; Anuuu :- !setprefix *
+server:-  Random Shit ; soup :- <@703332774056165438>, please wait 57.8 more second(s) before reusing the `setprefix` command.
+server:-  Random Shit ; Respectfully :- !reset prefix
+server:-  Random Shit ; Respectfully :- !resetprefix
+server:-  Random Shit ; soup :- The prefix has been reset to *****
+server:-  Random Shit ; Anuuu :- *aki
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Anuuu :- *sutup
+(node:30) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Anuuu :- *Netflix
+server:-  Random Shit ; Respectfully :- *p https://youtu.be/P95voFBhGI8
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Respectfully :- *autoplay off
+server:-  Random Shit ; soup :- Set autoplay mode to `Off`
+server:-  Random Shit ; Respectfully :- *p https://youtu.be/P95voFBhGI8
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Respectfully :- *loop 1
+server:-  Random Shit ; soup :- 
+server:-  Random Shit ; Respectfully :- *sutup
+(node:30) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+server:-  Random Shit ; soup :- 
+server:-  Deebot's Hub ; Rythm :- **Playing** 🎶 `Rascal Flatts - Life Is a Highway (From "Cars"/Official Video)` - Now!
+server:-  Deebot's Hub ; Rythm :- **Shuffled queue** 👌
+server:-  Respectfully's server2 ; Respectfully :- *reload stealemoji
+server:-  Respectfully's server2 ; soup :- Command `steal-emoji` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *stealemoji <:ztsmug:691942747728379954>
+server:-  Respectfully's server2 ; soup :- ☑️ ADDED: `https://cdn.discordapp.com/emojis/869445709458456576.png` to This server
+server:-  Respectfully's server2 ; Respectfully :- *reload stealemoji
+server:-  Respectfully's server2 ; soup :- Command `steal-emoji` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *stealemoji <:YEP:827271279861563403>
+ADDED: `https://cdn.discordapp.com/emojis/869448377971138591.png` to 858277238344253441
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *reload steal emoji
+server:-  Respectfully's server2 ; soup :- There is no command with name or alias `steal`, <@322735784593588225>!
+server:-  Respectfully's server2 ; Respectfully :- *reload stealemoji
+server:-  Respectfully's server2 ; soup :- Command `steal-emoji` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *stealemoji <:AFlolifacepalm:689929532396142652>
+ADDED: `https://cdn.discordapp.com/emojis/869448964087369761.png` to 858277238344253441
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *reload dev
+server:-  Respectfully's server2 ; soup :- Command `credits` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *dev
+server:-  Respectfully's server2 ; soup :- 
+server:-  Gamers Club ; MEE6 :- **cuddles#5110** just left the server 🙁
+server:-  Respectfully's server2 ; Respectfully :- *reload dev
+server:-  Respectfully's server2 ; soup :- Command `credits` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *dev
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *reload play
+server:-  Respectfully's server2 ; soup :- There is no command with name or alias `play`, <@322735784593588225>!
+server:-  Respectfully's server2 ; Respectfully :- *reload play
+server:-  Respectfully's server2 ; soup :- There is no command with name or alias `play`, <@322735784593588225>!
+server:-  Respectfully's server2 ; Respectfully :- *play
+server:-  Respectfully's server2 ; soup :- 
+server:-  Hitler's Lost SinS ; Mudae :- **VECTOR**, the roulette is limited to 13 uses per hour. **45** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  Respectfully's server2 ; Respectfully :- *uptime
+server:-  Respectfully's server2 ; soup :- **__Uptime:__** 
+0D 22H 36m 42s
+server:-  Respectfully's server2 ; Respectfully :- *aki
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *help aki
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *help
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *invite
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *reload help
+server:-  Respectfully's server2 ; soup :- Command `help` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *help
+server:-  Respectfully's server2 ; soup :- 

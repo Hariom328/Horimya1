@@ -1,0 +1,144 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 445 packages in 2.551s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Respectfully's server2 ; Respectfully :- *steal-emoji <:hug:769423343094202378>
+server:-  Respectfully's server2 ; soup :- ADDED: `https://cdn.discordapp.com/emojis/868004749394448394.png`
+server:-  Random Shit ; Respectfully :- *steal-emoji <:zwmmcuddle2:768489063057457152>
+server:-  Random Shit ; soup :- ADDED: `https://cdn.discordapp.com/emojis/868004954240081940.png`
+server:-  Respectfully's server2 ; Respectfully :- *reload help
+server:-  Respectfully's server2 ; soup :- Command `help` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- *help
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *hello
+Message {
+  channel: ExtendedTextChannel {
+    type: 'text',
+    deleted: false,
+    id: '858277238805495850',
+    name: 'general',
+    rawPosition: 0,
+    parentID: '858277238805495848',
+    permissionOverwrites: Collection [Map] {},
+    topic: null,
+    lastMessageID: '868005905793445898',
+    rateLimitPerUser: 0,
+    lastPinTimestamp: null,
+    guild: Guild {
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      roles: [RoleManager],
+      presences: [PresenceManager],
+      voiceStates: [VoiceStateManager],
+      deleted: false,
+      available: true,
+      id: '858277238344253441',
+      shardID: 0,
+      name: "Respectfully's server2",
+      icon: null,
+      splash: null,
+      discoverySplash: null,
+      region: 'india',
+      memberCount: 5,
+      large: false,
+      features: [],
+      applicationID: null,
+      afkTimeout: 300,
+      afkChannelID: null,
+      systemChannelID: '858277238805495850',
+      embedEnabled: undefined,
+      premiumTier: 0,
+      premiumSubscriptionCount: 0,
+      verificationLevel: 'NONE',
+      explicitContentFilter: 'DISABLED',
+      mfaLevel: 0,
+      joinedTimestamp: 1624699696253,
+      defaultMessageNotifications: 'ALL',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 100000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLCode: null,
+      vanityURLUses: null,
+      description: null,
+      banner: null,
+      rulesChannelID: null,
+      publicUpdatesChannelID: null,
+      preferredLocale: 'en-US',
+      ownerID: '322735784593588225',
+      emojis: [GuildEmojiManager]
+    },
+    messages: MessageManager {
+      cacheType: [Function: LimitedCollection],
+      cache: [LimitedCollection [Map]],
+      channel: [Circular]
+    },
+    nsfw: false,
+    _typing: Map {}
+  },
+  deleted: false,
+  id: '868005905793445898',
+  type: 'DEFAULT',
+  system: false,
+  content: '*hello',
+  author: User {
+    id: '322735784593588225',
+    system: null,
+    locale: null,
+    flags: UserFlags { bitfield: 256 },
+    username: 'Respectfully',
+    bot: false,
+    discriminator: '0100',
+    avatar: 'a_031ec3577a04514db0ed68a911b698ea',
+    lastMessageID: '868005905793445898',
+    lastMessageChannelID: '858277238805495850'
+  },
+  pinned: false,
+  tts: false,
+  nonce: '868005274777026560',
+  embeds: [],
+  attachments: Collection [Map] {},
+  createdTimestamp: 1627019134711,
+  editedTimestamp: 0,
+  reactions: ReactionManager {
+    cacheType: [Function: Collection],
+    cache: Collection [Map] {},
+    message: [Circular]
+  },
+  mentions: MessageMentions {
+    everyone: false,
+    users: Collection [Map] {},
+    roles: Collection [Map] {},
+    _members: null,
+    _channels: null,
+    crosspostedChannels: Collection [Map] {}
+  },
+  webhookID: null,
+  application: null,
+  activity: null,
+  _edits: [],
+  flags: MessageFlags { bitfield: 0 },
+  reference: null,
+  components: []
+}
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, Hello

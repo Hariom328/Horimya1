@@ -1,0 +1,91 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 476 packages in 2.774s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !pay <@!753985784058740798> 10000
+server:-  Respectfully's server2 ; soup :- removed 10000coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 10000coins To <@753985784058740798>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !pay <@!753985784058740798> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To <@753985784058740798>'s wallet
+server:-  Random Shit ; Respectfully :- *pay <@!703332774056165438> 100000000
+server:-  Random Shit ; soup :- removed 100000000coins From <@322735784593588225>'s wallet
+server:-  Random Shit ; soup :- added 100000000coins To <@703332774056165438>'s wallet
+server:-  Fantastical ; soup :- 
+server:-  Random Shit ; Anuuu :- *pay <@322735784593588225>  100000000
+server:-  Random Shit ; soup :- removed 100000000coins From <@703332774056165438>'s wallet
+server:-  Random Shit ; soup :- added 100000000coins To <@322735784593588225>'s wallet
+server:-  Random Shit ; Respectfully :- *bal
+server:-  Random Shit ; soup :- You Have 9920011 coins
+server:-  Random Shit ; Anuuu :- *bal
+server:-  Random Shit ; soup :- You Have 10000000000000010000 coins
+server:-  Random Shit ; Respectfully :- *pay <@!703332774056165438> 9920011222
+server:-  Random Shit ; soup :- removed 9920011222coins From <@322735784593588225>'s wallet
+server:-  Random Shit ; soup :- added 9920011222coins To <@703332774056165438>'s wallet
+server:-  Random Shit ; Respectfully :- *reload pay
+server:-  Random Shit ; soup :- Command `paymoney` was reloaded!
+server:-  Random Shit ; Respectfully :- *pay <@!703332774056165438> 9920011222
+server:-  Random Shit ; soup :- removed 9920011222coins From <@322735784593588225>'s wallet
+server:-  Random Shit ; soup :- added 9920011222coins To <@703332774056165438>'s wallet
+server:-  Random Shit ; Anuuu :- *pay <@322735784593588225>  9920011222
+server:-  Random Shit ; soup :- removed 9920011222coins From <@703332774056165438>'s wallet
+server:-  Random Shit ; soup :- added 9920011222coins To <@322735784593588225>'s wallet

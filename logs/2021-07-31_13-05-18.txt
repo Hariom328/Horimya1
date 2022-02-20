@@ -1,0 +1,212 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 476 packages in 3.986s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000010500 coins
+server:-  Respectfully's server2 ; Respectfully :- !pay <@753985784058740798> 500
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'save' of null
+    at /home/minecraft/multicraft/servers/server200444/commands/paymoney.js:33:11
+    at /home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/model.js:5068:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:31) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Respectfully's server2 ; soup :- removed 500coins To 753985784058740798 wallet
+server:-  Respectfully's server2 ; soup :- Needs atleast 500coins in wallet to continue with payments
+server:-  Respectfully's server2 ; respectfully2 :- !add 1000000
+no data, data created
+server:-  Respectfully's server2 ; soup :- added balance1000000coins.
+server:-  Respectfully's server2 ; respectfully2 :- !pay <@!322735784593588225> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000010500 coins
+server:-  Respectfully's server2 ; respectfully2 :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999500 coins
+server:-  Respectfully's server2 ; respectfully2 :- !pay <@!322735784593588225> 69420
+server:-  Respectfully's server2 ; soup :- removed 69420coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; soup :- added 69420coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000079920 coins
+server:-  Respectfully's server2 ; respectfully2 :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 930080 coins
+server:-  Respectfully's server2 ; respectfully2 :- !pay <@!322735784593588225> 80
+server:-  Respectfully's server2 ; soup :- removed 80coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; soup :- added 80coins To 322735784593588225 wallet
+server:-  Respectfully's server2 ; respectfully2 :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 930000 coins
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !reload pay
+server:-  Respectfully's server2 ; soup :- Command `paymoney` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- !pay <@753985784058740798> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins From Respectfully's wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To undefined's wallet
+server:-  Respectfully's server2 ; Respectfully :- !reload pay
+server:-  Respectfully's server2 ; soup :- Command `paymoney` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- !pay <@753985784058740798> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To <@753985784058740798>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !pay <@322735784593588225> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000079500 coins
+server:-  Respectfully's server2 ; Respectfully :- !pay <@322735784593588225> 500
+server:-  Respectfully's server2 ; soup :- removed 500coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 500coins To <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !bal <@753985784058740798>
+server:-  Respectfully's server2 ; soup :- You're Poor 
+ use add money command
+server:-  Respectfully's server2 ; respectfully2 :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 931000 coins
+server:-  Respectfully's server2 ; Respectfully :- !reload bal
+server:-  Respectfully's server2 ; soup :- Command `bal` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- !bal <@322735784593588225>
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !bal <@753985784058740798>
+server:-  Respectfully's server2 ; soup :- You Have 931000 coins
+server:-  Respectfully's server2 ; Respectfully :- !pay <@753985784058740798> 50
+server:-  Respectfully's server2 ; soup :- removed 50coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 50coins To <@753985784058740798>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000079950 coins
+server:-  Respectfully's server2 ; Respectfully :- !bal <@753985784058740798>
+server:-  Respectfully's server2 ; soup :- You Have 931050 coins
+server:-  Respectfully's server2 ; Respectfully :- !pay <@322735784593588225> 50
+server:-  Respectfully's server2 ; soup :- removed 50coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; soup :- added 50coins To <@322735784593588225>'s wallet
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !reload bal
+server:-  Respectfully's server2 ; soup :- Command `bal` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- !reload pay
+server:-  Respectfully's server2 ; soup :- Command `paymoney` was reloaded!
+server:-  Respectfully's server2 ; Respectfully :- !pay <@322735784593588225> 600
+server:-  Respectfully's server2 ; soup :- Don't Act Smart to me Neither try to Break me!
+server:-  Fantastical ; Dank Memer :- **Tip**: Did you know there's a family friendly mode now? Check your user settings `pls settings` or your server settings `pls serverconf`.
+server:-  Hitler's Lost SinS ; Mudae :- **PoZiTeV**, the roulette is limited to 13 uses per hour (high traffic hour). **9** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  Fantastical ; Anuuu :- *we* who?
+server:-  Hitler's Lost SinS ; Mudae :- **VECTOR**, the roulette is limited to 13 uses per hour (high traffic hour). **8** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  Fantastical ; LlamaLlama :- *chat i
+server:-  Fantastical ; soup :- I think a lot of people feel that way.
+server:-  Fantastical ; LlamaLlama :- *chat u my frnd soup so take dis
+server:-  Fantastical ; soup :- I do make errors in perception sometimes. Perhaps you can explain again.
+server:-  Fantastical ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 999000080000 coins
+server:-  Respectfully's server2 ; Respectfully :- !remove 999000080000
+server:-  Respectfully's server2 ; soup :- removed balance999000080000coins.
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 0 coins
+server:-  Respectfully's server2 ; Respectfully :- !remove 600
+server:-  Respectfully's server2 ; soup :- removed balance600coins.
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have -600 coins
+server:-  Respectfully's server2 ; Respectfully :- !add 10000000
+server:-  Respectfully's server2 ; soup :- added balance10000000coins.
+server:-  Respectfully's server2 ; Respectfully :- !bal
+server:-  Respectfully's server2 ; soup :- You Have 9999400 coins
+server:-  Respectfully's server2 ; Respectfully :- !add 600
+server:-  Respectfully's server2 ; soup :- added balance600coins.
+server:-  Respectfully's server2 ; Respectfully :- !avatar
+server:-  Respectfully's server2 ; soup :- https://cdn.discordapp.com/avatars/322735784593588225/a_031ec3577a04514db0ed68a911b698ea.gif?size=4096
+server:-  Fantastical ; Respectfully :- *rps <@!513677135471443968>
+server:-  Fantastical ; soup :- **Respectfully and LlamaLlama look in your DM's to start/finish the RPS game!**
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'id' of null
+    at Client.client.prefix (/home/minecraft/multicraft/servers/server200444/index.js:30:68)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:96:28)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'id' of null
+    at Client.client.prefix (/home/minecraft/multicraft/servers/server200444/index.js:30:68)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:96:28)
+    at Client.emit (events.js:310:20)
+    at MessageCreateAction.handle (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+server:-  Respectfully's server ; Respectfully :- !bal
+server:-  Respectfully's server ; soup :- You Have 10000000 coins
+server:-  Respectfully's server ; Fantastic Gamer :- !bal
+server:-  Respectfully's server ; soup :- You're Poor 
+ use add money command
+server:-  Respectfully's server ; Fantastic Gamer :- !add money 69696969696969696
+no data, data created
+(node:31) UnhandledPromiseRejectionWarning: ValidationError: money validation failed: Coins: Cast to Number failed for value "NaN" (type number) at path "Coins"
+    at model.Document.invalidate (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/document.js:2760:32)
+    at model.$set (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/document.js:1327:12)
+    at model.$set (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/document.js:1036:16)
+    at model.Document (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/document.js:148:12)
+    at model.Model (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/model.js:105:12)
+    at new model (/home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/model.js:4905:15)
+    at /home/minecraft/multicraft/servers/server200444/commands/addmoney.js:21:12
+    at /home/minecraft/multicraft/servers/server200444/node_modules/mongoose/lib/model.js:5068:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+server:-  Respectfully's server ; soup :- added balanceNaNcoins.
+server:-  Respectfully's server ; Fantastic Gamer :- !bal
+server:-  Respectfully's server ; soup :- You're Poor 
+ use add money command
+server:-  Respectfully's server ; Fantastic Gamer :- !add 6942069420
+no data, data created
+server:-  Respectfully's server ; soup :- added balance6942069420coins.
+server:-  Respectfully's server ; Respectfully :- !bal <@!330797210000293898>
+server:-  Respectfully's server ; soup :- You Have 6942069420 coins
+server:-  Respectfully's server ; Respectfully :- !pay <@!330797210000293898> 69420
+server:-  Respectfully's server ; soup :- removed 69420coins From <@322735784593588225>'s wallet
+server:-  Respectfully's server ; soup :- added 69420coins To <@330797210000293898>'s wallet
+server:-  Random Shit ; Respectfully :- *pay <@!703332774056165438> 69
+server:-  Random Shit ; soup :- removed 69coins From <@322735784593588225>'s wallet
+server:-  Random Shit ; soup :- added 69coins To <@703332774056165438>'s wallet

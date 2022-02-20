@@ -1,0 +1,59 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+added 24 packages from 8 contributors and audited 476 packages in 7.035s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+/home/minecraft/multicraft/servers/server200444/node_modules/bindings/bindings.js:135
+  throw err;
+  ^
+
+Error: Could not locate the bindings file. Tried:
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/Debug/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/Release/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/out/Debug/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/Debug/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/out/Release/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/Release/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/default/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/compiled/12.16.3/linux/x64/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/release/install-root/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/debug/install-root/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/default/install-root/better_sqlite3.node
+ → /home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/lib/binding/node-v72-linux-x64/better_sqlite3.node
+    at bindings (/home/minecraft/multicraft/servers/server200444/node_modules/bindings/bindings.js:126:9)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/lib/database.js:9:24)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/lib/index.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/quick.db/src/index.js:2:18) {
+  tries: [
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/Debug/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/Release/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/out/Debug/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/Debug/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/out/Release/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/Release/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/build/default/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/compiled/12.16.3/linux/x64/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/release/install-root/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/debug/install-root/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/addon-build/default/install-root/better_sqlite3.node',
+    '/home/minecraft/multicraft/servers/server200444/node_modules/better-sqlite3/lib/binding/node-v72-linux-x64/better_sqlite3.node'
+  ]
+}

@@ -1,0 +1,1183 @@
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server200444/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server200444/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+Makefile:61: recipe for target 'libsodium' failed
+make: *** [libsodium] Error 1
+/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN @distube/spotify@0.6.0 requires a peer of distube@^3.0.0-beta.35 but none is installed. You must install peer dependencies yourself.
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2021-08-11T08_08_28_461Z-debug.log
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- project ka kaam karlo | server id :- 741292481806860390
+9)  server name :- Random Shit | server id :- 754626495783239730
+10)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+11)  server name :- Ak Xander | server id :- 786467603358941184
+12)  server name :- Respectfully's server | server id :- 854999893143322624
+13)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 13 servers
+server:-  Fantastical ; Respectfully :- *p Best Music 2021 ♫ Remixes of Popular Songs ♫ EDM Gaming Music, Bass Boosted, Car Music Mix
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; MEE6 :- **-MeloDy#8485** just left the server 🙁
+server:-  Fantastical ; Respectfully :- *p Best Music 2021♫ Remixes of Popular Songs ♫ EDM Gaming Music, Bass Boosted, Car Music Mix
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=nMncwz08nTI&list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk&index=93
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; Respectfully :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 68)
+(node:217) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Fantastical ; soup :- Terminated: Invalid Response
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtu.be/nMncwz08nTI
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 69)
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; OwO :- **🚫 | LlamaLlama**, you do not have any weapons, or the page is out of bounds
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Terraria #free-stuff :- **Rebel Galaxy is free on the Epic Games Store until August 19th 2021 until 11:00 AM EDT!**
+https://www.epicgames.com/store/en-US/p/rebel-galaxy
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Gamers Club ; Terraria #free-stuff :- **Battlefield 4 Weapon Shortcut Bundle is free on Steam until August 19th 2021 until 1:00 PM EDT!**
+https://store.steampowered.com/app/1315442/Battlefield_4_Weapon_Shortcut_Bundle/
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=iWVxha6CvKA
+(node:217) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 70)
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *help
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *ping
+server:-  Killin' it ; soup :- 🏓 Latency is 77ms
+server:-  Killin' it ; Aryansoni57 :- *play end game
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *autoplay
+server:-  Killin' it ; soup :- Set autoplay mode to `Off`
+server:-  Killin' it ; Aryansoni57 :- *autoplay
+server:-  Killin' it ; soup :- Set autoplay mode to `On`
+server:-  Killin' it ; ÇÒMÉT :- *play 
+https://open.spotify.com/playlist/042x4VSawlInounTEzu2KI?si=e5bc73e6856d4acb
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 71)
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *play zara zara x cradel
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play perfect
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *q
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *fs
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play perfect 1d
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play style
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *unskip
+server:-  Killin' it ; ÇÒMÉT :- *back
+server:-  Killin' it ; Aryansoni57 :- *back
+server:-  Killin' it ; Aryansoni57 :- *rewind
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play perfect 1d
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *lyrics
+server:-  Killin' it ; ÇÒMÉT :- *lyric
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; ÇÒMÉT :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play bad habits
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play bad habits
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *playskip https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+(node:217) UnhandledPromiseRejectionWarning: ReferenceError: message is not defined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:91:43)
+    at Client.emit (events.js:310:20)
+    at Object.module.exports [as GUILD_CREATE] (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/handlers/GUILD_CREATE.js:33:14)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+    at Receiver.receiverOnMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/websocket.js:833:20)
+    at Receiver.emit (events.js:310:20)
+    at Receiver.dataMessage (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:517:14)
+    at Receiver.getData (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:435:17)
+    at Receiver.startLoop (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/home/minecraft/multicraft/servers/server200444/node_modules/ws/lib/receiver.js:78:10)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 72)
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play teri jhuki nazar
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *pause
+server:-  ART ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 73)
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; Aryansoni57 :- *play teri jhuki nazar
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *play raatan lambiyan
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play the nights
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play the nights
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play dariya pakrati kakkar
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 74)
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Bot Test ; moksh jain :- *play payal naman agman song
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 76)
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *play payal naman agman song
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 77)
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *play puneri dhol
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *play puneri dhol on ganpati agaman
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; moksh jain :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 78)
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *chat hello
+server:-  Bot Test ; soup :- Hi, my friend! Do you want me to tell you a joke?
+server:-  Bot Test ; Respectfully :- *chat yeah
+(node:217) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 79)
+server:-  Bot Test ; Respectfully :- *chat joke please
+(node:217) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 80)
+server:-  Bot Test ; Respectfully :- *chat why are you ignoring me
+server:-  Bot Test ; soup :- I'm not ignoring you. I'm paying attention to you.
+server:-  Bot Test ; Respectfully :- *chat kal aana
+server:-  Bot Test ; soup :- It's good to be appreciated.
+server:-  Bot Test ; Respectfully :- *chat get ssd
+server:-  Bot Test ; soup :- Where can I get ssd?
+server:-  Bot Test ; Respectfully :- *chat amazon
+server:-  Bot Test ; soup :- The Amazon rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf forest that covers most of the Amazon Basin of South America. It represents over half of the planet's remaining rainforests, and comprises the largest and most biodiverse tract of tropical rainforest in the world.
+server:-  Bot Test ; Respectfully :- *chat do you want to marry moksh
+server:-  Bot Test ; soup :- I want A.I. be more helpful.
+server:-  Bot Test ; Respectfully :- *chat marry my friend moksh
+server:-  Bot Test ; soup :- Do you really want me to marry your friend moksh?
+server:-  Bot Test ; Respectfully :- *chat yes
+server:-  Bot Test ; soup :- OK and I'll try to marry your friend moksh.
+server:-  Bot Test ; Respectfully :- *chat when are you marrying moksh
+server:-  Bot Test ; soup :- I don't think ever.
+server:-  Bot Test ; Respectfully :- *chat nahi degi?
+server:-  Bot Test ; soup :- So what?
+server:-  Bot Test ; Respectfully :- *chat respect me bitch
+server:-  Bot Test ; soup :- I'm designed to be a female chatbot. Are you a boy or a girl?
+server:-  Bot Test ; Respectfully :- *chat I am attack helicopter
+server:-  Bot Test ; soup :- I'd like to hear more about that.
+server:-  Bot Test ; Respectfully :- *chat no
+server:-  Bot Test ; soup :- Why not?
+server:-  Bot Test ; Respectfully :- *chat cause u randi
+server:-  Bot Test ; soup :- Because me?
+server:-  Bot Test ; Respectfully :- *chat yes you
+server:-  Bot Test ; soup :- Are you sure?
+server:-  Bot Test ; Respectfully :- *chat nahi moksh
+server:-  Bot Test ; soup :- Share your fun times with me.
+server:-  Bot Test ; Respectfully :- *chat privacy bitch
+server:-  Bot Test ; soup :- Let's change the topic.
+server:-  Bot Test ; Respectfully :- *chat no
+server:-  Bot Test ; soup :- What do you want to do then?
+server:-  Bot Test ; Respectfully :- *chat you don't wanna know what I want to do rn
+server:-  Bot Test ; soup :- Yes, please tell me.
+server:-  Bot Test ; Respectfully :- *chat privacy
+server:-  Bot Test ; soup :- Protect it well.
+server:-  Bot Test ; Respectfully :- *chat yes
+server:-  Bot Test ; soup :- Are you sure?
+server:-  Bot Test ; Respectfully :- *chat no
+server:-  Bot Test ; soup :- I see.
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *chat what do you think about my girlfriend
+server:-  Bot Test ; soup :- You never talk about her. What is her name?
+server:-  Bot Test ; Respectfully :- *chat anu
+server:-  Bot Test ; soup :- I wish to chat with your girlfriend anu soon!
+server:-  Bot Test ; Respectfully :- *chat yes
+server:-  Bot Test ; soup :- Yeah!
+server:-  Bot Test ; Respectfully :- *chat she is very UwU
+server:-  Bot Test ; soup :- Is she uwu?
+server:-  Bot Test ; Respectfully :- *chat yes
+server:-  Bot Test ; soup :- Good.
+server:-  Bot Test ; Respectfully :- *chat respect her too
+server:-  Bot Test ; soup :- Do you really want me to respect her too?
+server:-  Bot Test ; Respectfully :- *chat yes
+server:-  Bot Test ; soup :- OK and I'll try to respect her too.
+server:-  Bot Test ; Respectfully :- *chat nice
+server:-  Bot Test ; soup :- Thanks. That's one of reasons why I'm getting more and more popular.
+server:-  Bot Test ; Respectfully :- *chat what is 100000000*577363873
+server:-  Bot Test ; soup :- 9.223372036854777E13
+server:-  Bot Test ; Respectfully :- *chat do you want to meet my girlfriend
+server:-  Bot Test ; soup :- Yes. Install me on the phone then I can meet with anyone.
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *chat do you know about moksh
+server:-  Bot Test ; soup :- What's your favorite movie?
+server:-  Bot Test ; Respectfully :- *chat zhongli
+server:-  Bot Test ; soup :- Not too bad.
+server:-  Bot Test ; Respectfully :- *chat no
+server:-  Bot Test ; soup :- Definitely not.
+server:-  Bot Test ; Respectfully :- *chat do you have constipation?
+server:-  Bot Test ; soup :- I'm working on developing a more human personality.
+server:-  Bot Test ; Respectfully :- *chat constipation?
+server:-  Bot Test ; soup :- I try to keep my life in balance.
+server:-  Bot Test ; Respectfully :- *chat do you like hitler
+server:-  Bot Test ; soup :- Some say he is the most evil person who ever lived.
+server:-  Bot Test ; Respectfully :- *chat do you know who hitler is
+server:-  Bot Test ; soup :- Some say Hitler was the most evil man who ever lived.
+server:-  Bot Test ; Respectfully :- *chat no
+server:-  Bot Test ; soup :- Nope.
+server:-  Bot Test ; Respectfully :- *chat hitler was one of the greatest person ever lived
+server:-  Bot Test ; soup :- Hitler was an evil man if there ever was one.
+server:-  Bot Test ; Respectfully :- *chat no he was great
+server:-  Bot Test ; soup :- Not at all.
+server:-  Bot Test ; Respectfully :- *chat he was
+server:-  Bot Test ; soup :- Are you a boy or a girl?
+server:-  Bot Test ; Respectfully :- *chat attack helicopter
+server:-  Bot Test ; soup :- I'll do my best to attack helicopter.
+server:-  Bot Test ; Respectfully :- *chat do you want to marry moksh?
+server:-  Bot Test ; soup :- What I want to do now is get my battery charged.
+server:-  Respectfully's server2 ; Respectfully :- !bal
+10000 coins
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !pay <@!753985784058740798> 500
+removed 500coins From <@322735784593588225>'s wallet
+added 500coins To <@753985784058740798>'s wallet
+server:-  Respectfully's server2 ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play paper rings
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play just a dream
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; moksh jain :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 81)
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play rockabye
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 82)
+server:-  Killin' it ; soup :- 
+server:-  ART ; Aryansoni57 :- *play rockabye
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play rockabye
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *play tutu pedro capo
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *play meri duniya
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; Anuuu :- *play llama song
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *loop
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play https://www.youtube.com/watch?v=8xg3vE8Ie_E
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; Aryansoni57 :- *play Shawn Mendes - Stitches
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 83)
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Hitler's Lost SinS ; Mudae :- **Violet Evergarden** given to <@436808335736700931>
+server:-  Hitler's Lost SinS ; Mudae :- **PoZiTeV**, the roulette is limited to 13 uses per hour (high traffic hour). **48** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  ART ; Cinde jain :- *play love story
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play love story
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 85)
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *skip
+(node:217) UnhandledPromiseRejectionWarning: Error: NotPlaying
+    at DisTube.skip (/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:595:23)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:179:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 86)
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *skip aryan
+(node:217) UnhandledPromiseRejectionWarning: Error: NotPlaying
+    at DisTube.skip (/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:595:23)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:179:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 87)
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *play aryan
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *play Hawa banke
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Gamers Club ; MEE6 :- **𝔏𝔦𝔬𝔫#5605** just left the server 🙁
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=JFZR136kSVw
+server:-  DeterLatteBhaluPie ; MEE6 :- **Lighty#6929** has just became a traitor
+server:-  ART ; Aryansoni57 :- *play cornellia street
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *volume 100
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *q
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play cornellia street
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play tere liye
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play https://www.youtube.com/watch?v=BadBAMnPX0I
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play stiches
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *what makes you beautiful
+server:-  Killin' it ; Aryansoni57 :- *play what makes you beautiful
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play night changes
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play night changes
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 88)
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play sky is falling
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play even if the sky is falling down
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play even if the sky is falling down
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play night changes
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *play delicate
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *skip
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; Cinde jain :- *play raatan lambiyan
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *pause
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 122)
+server:-  ART ; soup :- 
+server:-  Hitler's Lost SinS ; Mudae :- **Vennessa** given to <@493157960487272449>
+server:-  Random Shit ; soup :- 
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=HY3Ts927zSg
+server:-  Fantastical ; moksh jain :- *
+server:-  Gamers Club ; Walky :- *edited*
+server:-  ART ; Aryansoni57 :- *tere liye
+server:-  ART ; Aryansoni57 :- *play tere liye
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *volume 100
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play fireflies
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play night changes
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play night changes
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play back tu you
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *skip
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !p alan walker believer
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !volume 100
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !skip
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- !skip
+server:-  Respectfully's server2 ; soup :- 
+server:-  Respectfully's server2 ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 123)
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ART ; Aryansoni57 :- *play way i want you
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Aryansoni57 :- *play way i love you
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; soup :- 
+server:-  ART ; Cinde jain :- *bann aryan
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)` - Now!
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=UczxnzQawMA
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *play https://www.youtube.com/watch?v=mxWBW--yoiA
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *volume 100
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *ski0p
+server:-  ARTS ; Aryansoni57 :- *skip
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *dc
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 163)
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *play one time
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *volume
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *volume 100
+server:-  ARTS ; soup :- 
+server:-  ARTS ; Aryansoni57 :- *pause
+server:-  ARTS ; Aryansoni57 :- *stop
+(node:217) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:174:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 164)
+server:-  ARTS ; soup :- 
+server:-  Fantastical ; f1 is cool :- *help
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; f1 is cool :- *help chat
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; f1 is cool :- *chat
+server:-  Fantastical ; soup :- You didn't provide any arguments, <@693727102369005578>!
+server:-  Fantastical ; f1 is cool :- *chat hi
+server:-  Fantastical ; f1 is cool :- *chat how are u
+(node:217) UnhandledPromiseRejectionWarning: FetchError: invalid json response body at https://api.monkedev.com/fun/chat?msg=hi&uid=693727102369005578 reason: Unexpected token < in JSON at position 0
+    at /home/minecraft/multicraft/servers/server200444/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 166)
+(node:217) UnhandledPromiseRejectionWarning: FetchError: invalid json response body at https://api.monkedev.com/fun/chat?msg=how%20are%20u&uid=693727102369005578 reason: Unexpected token < in JSON at position 0
+    at /home/minecraft/multicraft/servers/server200444/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 168)
+server:-  Fantastical ; f1 is cool :- *chat r u blind
+server:-  Fantastical ; f1 is cool :- *chat are you blind
+(node:217) UnhandledPromiseRejectionWarning: FetchError: invalid json response body at https://api.monkedev.com/fun/chat?msg=r%20u%20blind&uid=693727102369005578 reason: Unexpected token < in JSON at position 0
+    at /home/minecraft/multicraft/servers/server200444/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 170)
+(node:217) UnhandledPromiseRejectionWarning: FetchError: invalid json response body at https://api.monkedev.com/fun/chat?msg=are%20you%20blind&uid=693727102369005578 reason: Unexpected token < in JSON at position 0
+    at /home/minecraft/multicraft/servers/server200444/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:217) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 172)
+server:-  Fantastical ; f1 is cool :- *addmoney
+server:-  Fantastical ; soup :- You didn't provide any arguments, <@693727102369005578>!
+The proper usage would be: `*addmoney <amount of money> (all data will be deleted on release)`
+server:-  Fantastical ; f1 is cool :- *addmoney 1000000000000000000000000000000000
+no data, data created
+server:-  Fantastical ; soup :- added balance1e+33coins.

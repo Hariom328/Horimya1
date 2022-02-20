@@ -1,0 +1,43 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 444 packages in 2.9s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+server:-  Random Shit ; Respectfully :- *p https://youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Random Shit ; soup :- Play `Sound` playlist (83 songs).
+Now playing `Harddope & Lunis - Summertime Sadness (Magic Cover Release)` - `02:33`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Respectfully :- *shuffle
+server:-  Random Shit ; soup :- PlayList has been `SHUFFLED`
+server:-  Random Shit ; Respectfully :- *skip
+server:-  Random Shit ; soup :- Playing `AMV   Kimi no Na wa  Original Zen Zen Zense` - `04:48`
+Volume: `50%` | Filter: `Off` | Loop: `Off` | Autoplay: `On`
+server:-  Random Shit ; Respectfully :- *q
+(node:30) UnhandledPromiseRejectionWarning: DiscordAPIError: Invalid Form Body
+embed.description: Must be 4096 or fewer in length.
+embeds[0].description: Must be 4096 or fewer in length.
+    at RequestHandler.execute (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async RequestHandler.push (/home/minecraft/multicraft/servers/server200444/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:30) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:30) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Random Shit ; Respectfully :- *stop
+server:-  Random Shit ; soup :- 

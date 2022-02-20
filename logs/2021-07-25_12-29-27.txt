@@ -1,0 +1,184 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 452 packages in 2.834s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[DisTube] Downloaded youtube-dl 2021.06.06
+connected to soupDB
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Bot Test ; Anuuu :- *set prefix to <:AFcatdead:823920564933623838>
+server:-  Bot Test ; Anuuu :- *setprefix <:AFcatdead:823920564933623838>
+server:-  Bot Test ; soup :- Prefix has Been Set to **:AFcatdead:**
+server:-  Bot Test ; Anuuu :- <:AFcatdead:823920564933623838> UwU
+server:-  Bot Test ; Anuuu :- <:AFcatdead:823920564933623838>UwU
+server:-  Bot Test ; soup :- <@!703332774056165438>, UwU
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **:AFcatdead:** **Type :AFcatdead:help to get started**
+server:-  Bot Test ; Respectfully :- <:AFcatdead:823920564933623838>soup
+Message {
+  channel: ExtendedTextChannel {
+    type: 'text',
+    deleted: false,
+    id: '788021725308387388',
+    name: 'tts',
+    rawPosition: 4,
+    parentID: '727081997490454551',
+    permissionOverwrites: Collection [Map] { '727081997490454550' => [PermissionOverwrites] },
+    topic: null,
+    lastMessageID: '868832738663366716',
+    rateLimitPerUser: 0,
+    lastPinTimestamp: 1626968805000,
+    guild: Guild {
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      roles: [RoleManager],
+      presences: [PresenceManager],
+      voiceStates: [VoiceStateManager],
+      deleted: false,
+      available: true,
+      id: '727081997490454550',
+      shardID: 0,
+      name: 'Bot Test',
+      icon: null,
+      splash: null,
+      discoverySplash: null,
+      region: 'singapore',
+      memberCount: 27,
+      large: false,
+      features: [Array],
+      applicationID: null,
+      afkTimeout: 300,
+      afkChannelID: '748063301166039152',
+      systemChannelID: '727418098927403008',
+      embedEnabled: undefined,
+      premiumTier: 1,
+      premiumSubscriptionCount: 2,
+      verificationLevel: 'NONE',
+      explicitContentFilter: 'DISABLED',
+      mfaLevel: 0,
+      joinedTimestamp: 1603787599603,
+      defaultMessageNotifications: 'ALL',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 100000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLCode: null,
+      vanityURLUses: null,
+      description: null,
+      banner: null,
+      rulesChannelID: null,
+      publicUpdatesChannelID: null,
+      preferredLocale: 'en-US',
+      ownerID: '322735784593588225',
+      emojis: [GuildEmojiManager]
+    },
+    messages: MessageManager {
+      cacheType: [Function: LimitedCollection],
+      cache: [LimitedCollection [Map]],
+      channel: [Circular]
+    },
+    nsfw: false,
+    _typing: Map { '322735784593588225' => [Object] }
+  },
+  deleted: false,
+  id: '868832738663366716',
+  type: 'DEFAULT',
+  system: false,
+  content: '<:AFcatdead:823920564933623838>soup',
+  author: User {
+    id: '322735784593588225',
+    system: null,
+    locale: null,
+    flags: UserFlags { bitfield: 256 },
+    username: 'Respectfully',
+    bot: false,
+    discriminator: '0100',
+    avatar: 'a_031ec3577a04514db0ed68a911b698ea',
+    lastMessageID: '868832738663366716',
+    lastMessageChannelID: '788021725308387388'
+  },
+  pinned: false,
+  tts: false,
+  nonce: '868832739091021824',
+  embeds: [],
+  attachments: Collection [Map] {},
+  createdTimestamp: 1627216267029,
+  editedTimestamp: 0,
+  reactions: ReactionManager {
+    cacheType: [Function: Collection],
+    cache: Collection [Map] {},
+    message: [Circular]
+  },
+  mentions: MessageMentions {
+    everyone: false,
+    users: Collection [Map] {},
+    roles: Collection [Map] {},
+    _members: null,
+    _channels: null,
+    crosspostedChannels: Collection [Map] {}
+  },
+  webhookID: null,
+  application: null,
+  activity: null,
+  _edits: [],
+  flags: MessageFlags { bitfield: 0 },
+  reference: null,
+  components: []
+}
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello
+server:-  Bot Test ; Respectfully :- <:AFcatdead:823920564933623838>setprefix *
+server:-  Bot Test ; soup :- Prefix has Been Updated to *****
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/playlist?list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *skip
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, Hello my friend, 
+ I can see you have mentioned me 
+ my prefix of this server is := **?** **Type ?help to get started**
+server:-  Respectfully's server2 ; Respectfully :- ?user
+server:-  Respectfully's server2 ; soup :- 
+server:-  Hitler's Lost SinS ; Mudae :- **SideSwip5**, the roulette is limited to 13 uses per hour (high traffic hour). **51** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  Fantastical ; Anuuu :- *setprefix <:nahi_degi:855411677460693022>
+server:-  Fantastical ; soup :- Prefix has Been Set to **:nahi_degi:**
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022> <:nahi_degi:855411677460693022>
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>UwU
+server:-  Fantastical ; soup :- <@703332774056165438>, UwU
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>setprefix *
+server:-  Fantastical ; soup :- <@703332774056165438>, please wait 31.4 more second(s) before reusing the `setprefix` command.
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>chat soup
+server:-  Fantastical ; soup :- Tastes delicious.
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>why your owner is like this
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>chat why your owner is like this
+server:-  Fantastical ; soup :- How old are you?
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>18
+server:-  Fantastical ; Anuuu :- <:nahi_degi:855411677460693022>setprefix *
+server:-  Fantastical ; soup :- Prefix has Been Updated to *****
+server:-  Gamers Club ; YAGPDB.xyz :- **Bizkit4prez** uploaded a new youtube video!
+https://www.youtube.com/watch?v=iz5pvXAQ-ow

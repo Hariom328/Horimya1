@@ -1,0 +1,120 @@
+
+> sodium@3.0.2 preinstall /home/minecraft/multicraft/servers/server200444/node_modules/sodium
+> node install.js --preinstall
+
+Static libsodium was not found at /home/minecraft/multicraft/servers/server200444/node_modules/sodium/deps/build/lib/libsodium so compiling libsodium from source.
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: creating directory build-aux
+autoreconf: running: libtoolize --copy --force
+libtoolize:   error: cannot list files: '/usr/share/libtool/build-aux'
+autoreconf: libtoolize failed with exit status: 1
+Makefile:61: recipe for target 'libsodium' failed
+make: *** [libsodium] Error 1
+/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293
+            throw new Error(cmdLine + ' exited with code ' + code);
+            ^
+
+Error: make libsodium exited with code 2
+    at ChildProcess.<anonymous> (/home/minecraft/multicraft/servers/server200444/node_modules/sodium/install.js:293:19)
+    at ChildProcess.emit (events.js:310:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+npm WARN @distube/spotify@0.6.3 requires a peer of distube@^3.0.0-beta.35 but none is installed. You must install peer dependencies yourself.
+npm WARN discord_bot@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! sodium@3.0.2 preinstall: `node install.js --preinstall`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the sodium@3.0.2 preinstall script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /tmp/.npm-global/_logs/2021-09-07T04_20_06_560Z-debug.log
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Killin' it | server id :- 780450290917703730
+10)  server name :- Ak Xander | server id :- 786467603358941184
+11)  server name :- HOMIES! | server id :- 792289189507891201
+12)  server name :- SOUP | server id :- 854999893143322624
+13)  server name :- 3A vibes | server id :- 857529988839243776
+14)  server name :- Respectfully's server2 | server id :- 858277238344253441
+15)  server name :- music | server id :- 867701363189743647
+16)  server name :- ARTS | server id :- 875789800362356736
+17)  server name :- chaubey ji ka bday | server id :- 879602640588267552
+total of 17 servers
+server:-  Killin' it ; Aryansoni57 :- *p rahnjaa
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Aryansoni57 :- *dc
+server:-  Killin' it ; soup :- 
+server:-  Killin' it ; Rythm :- **Shuffled queue** 👌
+server:-  Killin' it ; Rythm :- **Skipping?** (1/2 people) **`!forceskip` or `!fs` to force**
+server:-  Killin' it ; Rythm :- **Shuffled queue** 👌
+server:-  Killin' it ; Rythm :- **Skipping?** (1/2 people) **`!forceskip` or `!fs` to force**
+server:-  Killin' it ; Rythm :- **Playing** 🎶 `KiDi - Touch It (Official Video)` - Now!
+server:-  Fantastical ; Doge ;) :- *p gimme more
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Doge ;) :- *sutup
+server:-  Fantastical ; soup :- 
+server:-  3A vibes ; Momos :- *play nandemonaiya
+server:-  3A vibes ; soup :- 
+server:-  3A vibes ; soup :- 
+server:-  3A vibes ; Momos :- *1
+server:-  3A vibes ; soup :- 
+server:-  Killin' it ; Dank Memer :- **Tip**: Did you know there's a family friendly mode now? Check your user settings `pls settings` or your server settings `pls serverconf`.
+server:-  Gamers Club ; MEE6 :- **RaGE#3570** just left the server 🙁
+server:-  Gamers Club ; MEE6 :- **- M∆N∆$ -#3285** just left the server 🙁

@@ -1,0 +1,31 @@
+
+> @distube/youtube-dl@2.2.2 postinstall /home/minecraft/multicraft/servers/server200444/node_modules/@distube/youtube-dl
+> node scripts/postinstall.js
+
+Downloaded youtube-dl 2021.06.06!
+npm WARN notsup Unsupported engine for distube@3.0.0-beta.33.1: wanted: {"node":">=14.0.0","npm":">=7.0.0"} (current: {"node":"12.16.3","npm":"6.14.4"})
+npm WARN notsup Not compatible with your version of node/npm: distube@3.0.0-beta.33.1
+npm WARN discord_bot@1.0.0 No repository field.
+
+added 6 packages from 2 contributors, removed 5 packages, updated 7 packages and audited 450 packages in 10.467s
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:122
+        if (!oldState?.channel) return;
+                      ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:4:17)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)

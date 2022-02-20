@@ -1,0 +1,572 @@
+npm WARN discord_bot@1.0.0 No repository field.
+
+audited 452 packages in 3.69s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+connected to soupDB
+[DisTube] Downloaded youtube-dl 2021.06.06
+this bot is online soup#9637! ID:- 727077691605647381
+1)  server name :- Fantastical | server id :- 407860192005324811
+2)  server name :- Gamers Club | server id :- 512128395094786059
+3)  server name :- give me some sunshine, give me some rain | server id :- 567789813307015200
+4)  server name :- DeterLatteBhaluPie | server id :- 700561561617694762
+5)  server name :- Deebot's Hub | server id :- 710413124083253270
+6)  server name :- Bot Test | server id :- 727081997490454550
+7)  server name :- BHALU GANG BANG | server id :- 736123992724865084
+8)  server name :- Random Shit | server id :- 754626495783239730
+9)  server name :- Hitler's Lost SinS | server id :- 758322641744166933
+10)  server name :- Respectfully's server | server id :- 854999893143322624
+11)  server name :- Respectfully's server2 | server id :- 858277238344253441
+total of 11 servers
+server:-  Random Shit ; Respectfully :- *sutup
+(node:31) UnhandledPromiseRejectionWarning: Error: NotPlaying
+    at DisTube.stop (/home/minecraft/multicraft/servers/server200444/node_modules/distube/src/DisTube.js:547:23)
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:171:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:31) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+server:-  Random Shit ; soup :- 
+server:-  Bot Test ; Respectfully :- *setprefix <@!513677135471443968>
+server:-  Bot Test ; soup :- Prefix has Been Updated to **<@!513677135471443968>**
+server:-  Bot Test ; Respectfully :- <@!513677135471443968>chat llama vc join kar
+server:-  Bot Test ; soup :- Not bad.
+server:-  Bot Test ; Respectfully :- <@!513677135471443968>chat llama gay
+server:-  Bot Test ; soup :- What is your purpose?
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- <@!513677135471443968>hello
+Message {
+  channel: ExtendedTextChannel {
+    type: 'text',
+    deleted: false,
+    id: '788021725308387388',
+    name: 'tts',
+    rawPosition: 4,
+    parentID: '727081997490454551',
+    permissionOverwrites: Collection [Map] { '727081997490454550' => [PermissionOverwrites] },
+    topic: null,
+    lastMessageID: '869513895604281364',
+    rateLimitPerUser: 0,
+    lastPinTimestamp: 1626968805000,
+    guild: Guild {
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      roles: [RoleManager],
+      presences: [PresenceManager],
+      voiceStates: [VoiceStateManager],
+      deleted: false,
+      available: true,
+      id: '727081997490454550',
+      shardID: 0,
+      name: 'Bot Test',
+      icon: null,
+      splash: null,
+      discoverySplash: null,
+      region: 'singapore',
+      memberCount: 27,
+      large: false,
+      features: [Array],
+      applicationID: null,
+      afkTimeout: 300,
+      afkChannelID: '748063301166039152',
+      systemChannelID: '727418098927403008',
+      embedEnabled: undefined,
+      premiumTier: 1,
+      premiumSubscriptionCount: 2,
+      verificationLevel: 'NONE',
+      explicitContentFilter: 'DISABLED',
+      mfaLevel: 0,
+      joinedTimestamp: 1603787599603,
+      defaultMessageNotifications: 'ALL',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 100000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLCode: null,
+      vanityURLUses: null,
+      description: null,
+      banner: null,
+      rulesChannelID: null,
+      publicUpdatesChannelID: null,
+      preferredLocale: 'en-US',
+      ownerID: '322735784593588225',
+      emojis: [GuildEmojiManager]
+    },
+    messages: MessageManager {
+      cacheType: [Function: LimitedCollection],
+      cache: [LimitedCollection [Map]],
+      channel: [Circular]
+    },
+    nsfw: false,
+    _typing: Map {
+      '513677135471443968' => [Object],
+      '322735784593588225' => [Object]
+    }
+  },
+  deleted: false,
+  id: '869513895604281364',
+  type: 'DEFAULT',
+  system: false,
+  content: '<@!513677135471443968>hello',
+  author: User {
+    id: '322735784593588225',
+    system: null,
+    locale: null,
+    flags: UserFlags { bitfield: 256 },
+    username: 'Respectfully',
+    bot: false,
+    discriminator: '0100',
+    avatar: 'a_031ec3577a04514db0ed68a911b698ea',
+    lastMessageID: '869513895604281364',
+    lastMessageChannelID: '788021725308387388'
+  },
+  pinned: false,
+  tts: false,
+  nonce: '869513895235026944',
+  embeds: [],
+  attachments: Collection [Map] {},
+  createdTimestamp: 1627378667499,
+  editedTimestamp: 0,
+  reactions: ReactionManager {
+    cacheType: [Function: Collection],
+    cache: Collection [Map] {},
+    message: [Circular]
+  },
+  mentions: MessageMentions {
+    everyone: false,
+    users: Collection [Map] { '513677135471443968' => [User] },
+    roles: Collection [Map] {},
+    _members: null,
+    _channels: null,
+    crosspostedChannels: Collection [Map] {}
+  },
+  webhookID: null,
+  application: null,
+  activity: null,
+  _edits: [],
+  flags: MessageFlags { bitfield: 0 },
+  reference: null,
+  components: []
+}
+server:-  Bot Test ; soup :- <@!322735784593588225>, Hello
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat hello
+server:-  Bot Test ; soup :- Hi, my friend! Do you want me to tell you a joke?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat no
+server:-  Bot Test ; soup :- I know some others think the same as you.
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat do you like your new prefix?
+server:-  Bot Test ; soup :- I'm proud of my accomplishments.
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat i tag myself
+server:-  Bot Test ; soup :- I imagine that is good for you.
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat no cuz i get tagged
+server:-  Bot Test ; soup :- Why not?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat
+server:-  Bot Test ; soup :- You didn't provide any arguments, <@513677135471443968>!
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat vo chali gyi vro :(
+server:-  Bot Test ; soup :- Uh. Have you tried each of my features?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat gand marau?
+server:-  Bot Test ; soup :- How old are you?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat
+server:-  Bot Test ; soup :- You didn't provide any arguments, <@513677135471443968>!
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat 69
+server:-  Bot Test ; soup :- Age considers; youth ventures.
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat sex?
+server:-  Bot Test ; soup :- I'm designed to be a female chatbot. Are you a man or a woman?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat u female?
+server:-  Bot Test ; soup :- I'm designed to be a female chatbot. Are you a man or a woman?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat hellow how are you?
+server:-  Bot Test ; soup :- I'm doing great. Glad you are here! How are you?
+server:-  Bot Test ; LlamaLlama :- <@!513677135471443968>chat want to do the sexy?
+(node:31) UnhandledPromiseRejectionWarning: FetchError: invalid json response body at https://api.monkedev.com/fun/chat?msg=want%20to%20do%20the%20sexy%3F&uid=513677135471443968 reason: Unexpected token < in JSON at position 0
+    at /home/minecraft/multicraft/servers/server200444/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+server:-  Bot Test ; Respectfully :- <@!513677135471443968>resetprefix
+server:-  Bot Test ; soup :- The prefix has been reset to *****
+server:-  Bot Test ; Respectfully :- *help play
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *p https://www.youtube.com/watch?v=mfzs7BYVkWQ&list=PL12uE706Rd6KHyOIaiaeqltxmBuGoCSTk&index=85
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- Do You Wanna Shuffle It Too? `YES` / `NO`
+server:-  Bot Test ; soup :- Playing Without Shuffling!
+server:-  Bot Test ; Respectfully :- *stop
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *p https://youtu.be/mfzs7BYVkWQ
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Anuuu :- *play https://youtu.be/R5rmMMfzol8
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *p tripaloski russian
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; soup :- 
+server:-  Bot Test ; Respectfully :- *stop
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+server:-  Bot Test ; soup :- 
+server:-  Fantastical ; Rythm :- **Playing** 🎶 `This Is Why I LOVE VALORANT` - Now!
+server:-  Fantastical ; Rythm :- **Paused** ⏸
+server:-  Fantastical ; Amito :- *confirm*
+server:-  Hitler's Lost SinS ; Mudae :- **VECTOR**, the roulette is limited to 13 uses per hour (high traffic hour). **21** min left.
+Upvote Mudae to reset the timer: **$vote**. Twitter: **@​Mudaebot**
+Get a bonus when rolling with slash commands: type **$search slash**
+server:-  Random Shit ; Respectfully :- *
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; Deebot :- *help
+server:-  Deebot's Hub ; soup :- 
+server:-  Bot Test ; Anuuu :- *hello
+Message {
+  channel: ExtendedTextChannel {
+    type: 'text',
+    deleted: false,
+    id: '788021725308387388',
+    name: 'tts',
+    rawPosition: 4,
+    parentID: '727081997490454551',
+    permissionOverwrites: Collection [Map] { '727081997490454550' => [PermissionOverwrites] },
+    topic: null,
+    lastMessageID: '869821734268829746',
+    rateLimitPerUser: 0,
+    lastPinTimestamp: 1626968805000,
+    guild: Guild {
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      roles: [RoleManager],
+      presences: [PresenceManager],
+      voiceStates: [VoiceStateManager],
+      deleted: false,
+      available: true,
+      id: '727081997490454550',
+      shardID: 0,
+      name: 'Bot Test',
+      icon: null,
+      splash: null,
+      discoverySplash: null,
+      region: 'singapore',
+      memberCount: 27,
+      large: false,
+      features: [Array],
+      applicationID: null,
+      afkTimeout: 300,
+      afkChannelID: '748063301166039152',
+      systemChannelID: '727418098927403008',
+      embedEnabled: undefined,
+      premiumTier: 1,
+      premiumSubscriptionCount: 2,
+      verificationLevel: 'NONE',
+      explicitContentFilter: 'DISABLED',
+      mfaLevel: 0,
+      joinedTimestamp: 1603787599603,
+      defaultMessageNotifications: 'ALL',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 100000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLCode: null,
+      vanityURLUses: null,
+      description: null,
+      banner: null,
+      rulesChannelID: null,
+      publicUpdatesChannelID: null,
+      preferredLocale: 'en-US',
+      ownerID: '322735784593588225',
+      emojis: [GuildEmojiManager]
+    },
+    messages: MessageManager {
+      cacheType: [Function: LimitedCollection],
+      cache: [LimitedCollection [Map]],
+      channel: [Circular]
+    },
+    nsfw: false,
+    _typing: Map { '703332774056165438' => [Object] }
+  },
+  deleted: false,
+  id: '869821734268829746',
+  type: 'DEFAULT',
+  system: false,
+  content: '*hello',
+  author: User {
+    id: '703332774056165438',
+    system: null,
+    locale: null,
+    flags: UserFlags { bitfield: 0 },
+    username: 'Anuuu',
+    bot: false,
+    discriminator: '0002',
+    avatar: 'a_95ce106e591988e9517aa9374242b5ed',
+    lastMessageID: '869821734268829746',
+    lastMessageChannelID: '788021725308387388'
+  },
+  pinned: false,
+  tts: false,
+  nonce: '875992514786492416',
+  embeds: [],
+  attachments: Collection [Map] {},
+  createdTimestamp: 1627452061956,
+  editedTimestamp: 0,
+  reactions: ReactionManager {
+    cacheType: [Function: Collection],
+    cache: Collection [Map] {},
+    message: [Circular]
+  },
+  mentions: MessageMentions {
+    everyone: false,
+    users: Collection [Map] {},
+    roles: Collection [Map] {},
+    _members: null,
+    _channels: null,
+    crosspostedChannels: Collection [Map] {}
+  },
+  webhookID: null,
+  application: null,
+  activity: null,
+  _edits: [],
+  flags: MessageFlags { bitfield: 0 },
+  reference: null,
+  components: []
+}
+server:-  Bot Test ; soup :- <@!703332774056165438>, Hello
+server:-  Bot Test ; Anuuu :- *UwU
+server:-  Bot Test ; soup :- <@!703332774056165438>, UwU
+server:-  Bot Test ; Anuuu :- *insult <@322735784593588225>
+server:-  Bot Test ; Anuuu :- *thread <@322735784593588225>
+server:-  Fantastical ; Respectfully :- *stealemoji <:wat:868046027117191180>
+ADDED: `https://cdn.discordapp.com/emojis/869831327199936552.png` to 407860192005324811
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Fantastic Gamer :- *youtube
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *aki
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *aki
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *snake
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *aki
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Anuuu :- *aki
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *hmmm
+server:-  Gamers Club ; Rythm :- **Playing** 🎶 `Lil Nas X - SUN GOES DOWN (Official Video)` - Now!
+server:-  Fantastical ; moksh jain :- *pussy skills*
+server:-  Fantastical ; LlamaLlama :- *discord was died*
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; LlamaLlama :- *snake
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p young love
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=YYtWaHVarSQ
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *volume 100
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *stop
+(node:31) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server200444/index.js:172:9)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:31) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p 5 Seconds of Summer - Youngblood
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/watch?v=DEpO-Oh3MAw
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://www.youtube.com/playlist?list=PLrxcNWZXdQ2nRZvJcLoQpJhUBrPVOBbll
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *skip
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; Respectfully :- *p https://youtube.com/playlist?list=PLrxcNWZXdQ2nRZvJcLoQpJhUBrPVOBbll
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Fantastical ; soup :- 
+server:-  Deebot's Hub ; MiLKGANG :- *youtube
+server:-  Deebot's Hub ; soup :- 
+server:-  Deebot's Hub ; MiLKGANG :- *chess
+server:-  Deebot's Hub ; soup :- 
+server:-  Respectfully's server2 ; Respectfully :- *hello
+Message {
+  channel: ExtendedTextChannel {
+    type: 'text',
+    deleted: false,
+    id: '858277238805495850',
+    name: 'general',
+    rawPosition: 0,
+    parentID: '858277238805495848',
+    permissionOverwrites: Collection [Map] {},
+    topic: null,
+    lastMessageID: '870207110800109638',
+    rateLimitPerUser: 0,
+    lastPinTimestamp: null,
+    guild: Guild {
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      roles: [RoleManager],
+      presences: [PresenceManager],
+      voiceStates: [VoiceStateManager],
+      deleted: false,
+      available: true,
+      id: '858277238344253441',
+      shardID: 0,
+      name: "Respectfully's server2",
+      icon: null,
+      splash: null,
+      discoverySplash: null,
+      region: 'india',
+      memberCount: 5,
+      large: false,
+      features: [],
+      applicationID: null,
+      afkTimeout: 300,
+      afkChannelID: null,
+      systemChannelID: '858277238805495850',
+      embedEnabled: undefined,
+      premiumTier: 0,
+      premiumSubscriptionCount: 0,
+      verificationLevel: 'NONE',
+      explicitContentFilter: 'DISABLED',
+      mfaLevel: 0,
+      joinedTimestamp: 1627288651143,
+      defaultMessageNotifications: 'ALL',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 100000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLCode: null,
+      vanityURLUses: null,
+      description: null,
+      banner: null,
+      rulesChannelID: null,
+      publicUpdatesChannelID: null,
+      preferredLocale: 'en-US',
+      ownerID: '322735784593588225',
+      emojis: [GuildEmojiManager]
+    },
+    messages: MessageManager {
+      cacheType: [Function: LimitedCollection],
+      cache: [LimitedCollection [Map]],
+      channel: [Circular]
+    },
+    nsfw: false,
+    _typing: Map {}
+  },
+  deleted: false,
+  id: '870207110800109638',
+  type: 'DEFAULT',
+  system: false,
+  content: '*hello',
+  author: User {
+    id: '322735784593588225',
+    system: null,
+    locale: null,
+    flags: UserFlags { bitfield: 256 },
+    username: 'Respectfully',
+    bot: false,
+    discriminator: '0100',
+    avatar: 'a_031ec3577a04514db0ed68a911b698ea',
+    lastMessageID: '870207110800109638',
+    lastMessageChannelID: '858277238805495850'
+  },
+  pinned: false,
+  tts: false,
+  nonce: '870207109155782656',
+  embeds: [],
+  attachments: Collection [Map] {},
+  createdTimestamp: 1627543942881,
+  editedTimestamp: 0,
+  reactions: ReactionManager {
+    cacheType: [Function: Collection],
+    cache: Collection [Map] {},
+    message: [Circular]
+  },
+  mentions: MessageMentions {
+    everyone: false,
+    users: Collection [Map] {},
+    roles: Collection [Map] {},
+    _members: null,
+    _channels: null,
+    crosspostedChannels: Collection [Map] {}
+  },
+  webhookID: null,
+  application: null,
+  activity: null,
+  _edits: [],
+  flags: MessageFlags { bitfield: 0 },
+  reference: null,
+  components: []
+}
+server:-  Respectfully's server2 ; soup :- <@322735784593588225>, Hello
